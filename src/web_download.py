@@ -5,6 +5,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+import time
 
 def download(url):
     print('Downloading:', url)
@@ -24,7 +26,7 @@ def download(url):
         html = None
     return html
 
-def selenium_download(url):
+def selenium_download(page_number):
     '''
     Downloads the page source of a web using selenium webdriver which allows to load 
     advanced javascript webpages.
@@ -41,6 +43,13 @@ def selenium_download(url):
         elem = WebDriverWait(browser, 30).until(
             EC.presence_of_element_located((By.CLASS_NAME, class_name)) #This is a dummy element
         )
+        # Scroll down.
+        for i in range(1,page_number):
+            scrollview = browser.find_element_by_tag_name("cdk-virtual-scroll-viewport")
+            for i2 in range(1,50):
+                scrollview.send_keys(Keys.DOWN)
+            time.sleep(2)
+        time.sleep(5)
     finally:
         print("Data grid container found. Closing driver.")
         html = browser.page_source
