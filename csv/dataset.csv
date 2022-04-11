@@ -1,0 +1,996 @@
+time;place;depth;magnitude
+2022-03-31 05:44:01 (UTC);279 km ESE of Tadine, New Caledonia; 10.0 km ;7.0
+2022-03-16 14:36:33 (UTC);57 km ENE of Namie, Japan; 63.1 km ;7.3
+2021-12-29 18:25:51 (UTC);125 km NNE of Lospalos, Timor Leste; 165.5 km ;7.3
+2021-12-14 03:20:23 (UTC);Flores Sea; 14.3 km ;7.3
+2021-11-28 10:52:14 (UTC);43 km NNW of Barranca, Peru; 126.0 km ;7.5
+2021-10-02 06:29:17 (UTC);Vanuatu region; 527.0 km ;7.3
+2021-09-08 01:47:47 (UTC);Acapulco, Mexico; 20.0 km ;7.0
+2021-08-22 21:33:18 (UTC);South Sandwich Islands region; 6.0 km ;7.1
+2021-08-14 12:29:08 (UTC);Nippes, Haiti; 10.0 km ;7.2
+2021-08-12 18:35:17 (UTC);South Sandwich Islands region; 22.8 km ;8.1
+2021-08-12 18:32:52 (UTC);South Sandwich Islands region; 47.2 km ;7.5
+2021-08-11 17:46:13 (UTC);60 km ENE of Pondaguitan, Philippines; 55.1 km ;7.1
+2021-07-29 06:15:49 (UTC);99 km SE of Perryville, Alaska; 35.0 km ;8.2
+2021-05-21 18:04:13 (UTC);Southern Qinghai, China; 10.0 km ;7.3
+2021-03-20 09:09:43 (UTC);30 km E of Ishinomaki, Japan; 43.0 km ;7.0
+2021-03-04 19:28:33 (UTC);Kermadec Islands, New Zealand; 28.9 km ;8.1
+2021-03-04 17:41:23 (UTC);Kermadec Islands, New Zealand; 43.0 km ;7.4
+2021-03-04 13:27:34 (UTC);182 km NE of Gisborne, New Zealand; 10.0 km ;7.3
+2021-02-13 14:07:49 (UTC);73 km ENE of Namie, Japan; 44.0 km ;7.1
+2021-02-10 13:19:55 (UTC);southeast of the Loyalty Islands; 10.0 km ;7.7
+2021-01-21 12:23:04 (UTC);211 km SE of Pondaguitan, Philippines; 80.0 km ;7.0
+2020-10-30 11:51:27 (UTC);13 km NNE of Néon Karlovásion, Greece; 21.0 km ;7.0
+2020-10-19 20:54:38 (UTC);99 km SE of Sand Point, Alaska; 28.4 km ;7.6
+2020-07-22 06:12:44 (UTC);99 km SSE of Perryville, Alaska; 28.0 km ;7.8
+2020-07-17 02:50:22 (UTC);114 km NNW of Popondetta, Papua New Guinea; 73.0 km ;7.0
+2020-06-23 15:29:04 (UTC);9 km SE of Santa María Xadani, Mexico; 20.0 km ;7.4
+2020-06-18 12:49:53 (UTC);south of the Kermadec Islands; 10.0 km ;7.4
+2020-03-25 02:49:21 (UTC);221 km SSE of Severo-Kuril’sk, Russia; 57.8 km ;7.5
+2020-02-13 10:33:44 (UTC);95 km ENE of Kuril’sk, Russia; 143.0 km ;7.0
+2020-01-28 19:10:24 (UTC);123 km NNW of Lucea, Jamaica; 14.9 km ;7.7
+2019-11-14 16:17:40 (UTC);141 km NW of Ternate, Indonesia; 33.0 km ;7.1
+2019-07-14 09:10:51 (UTC);155 km SSE of Sofifi, Indonesia; 19.0 km ;7.2
+2019-07-06 03:19:53 (UTC);2019 Ridgecrest Earthquake Sequence; 8.0 km ;7.1
+2019-06-24 02:53:39 (UTC);Banda Sea; 212.0 km ;7.3
+2019-06-15 22:55:04 (UTC);Kermadec Islands, New Zealand; 46.0 km ;7.3
+2019-05-26 07:41:15 (UTC);78 km NE of Navarro, Peru; 122.6 km ;8.0
+2019-05-14 12:58:25 (UTC);48 km NE of Kokopo, Papua New Guinea; 10.0 km ;7.6
+2019-05-06 21:19:37 (UTC);32 km NW of Bulolo, Papua New Guinea; 146.0 km ;7.1
+2019-03-01 08:50:42 (UTC);22 km NNE of Azángaro, Peru; 267.0 km ;7.0
+2019-02-22 10:17:23 (UTC);115 km ESE of Palora, Ecuador; 145.0 km ;7.5
+2018-12-29 03:39:09 (UTC);96 km ESE of Pondaguitan, Philippines; 60.2 km ;7.0
+2018-12-20 17:01:55 (UTC);187 km SE of Ust’-Kamchatsk Staryy, Russia; 16.6 km ;7.3
+2018-12-11 02:26:29 (UTC);South Sandwich Islands region; 133.0 km ;7.1
+2018-12-05 04:18:08 (UTC);166 km ESE of Tadine, New Caledonia; 10.0 km ;7.5
+2018-11-30 17:29:29 (UTC);1 km SE of Point MacKenzie, Alaska; 46.7 km ;7.1
+2018-10-10 20:48:20 (UTC);119 km E of Kimbe, Papua New Guinea; 39.0 km ;7.0
+2018-09-28 10:02:45 (UTC);72 km N of Palu, Indonesia; 20.0 km ;7.5
+2018-09-06 15:49:18 (UTC);45 km S of Levuka, Fiji; 670.8 km ;7.9
+2018-08-29 03:51:56 (UTC);238 km ESE of Tadine, New Caledonia; 21.4 km ;7.1
+2018-08-24 09:04:08 (UTC);136 km W of Iñapari, Peru; 630.0 km ;7.1
+2018-08-21 21:31:47 (UTC);40 km ENE of Carúpano, Venezuela; 146.8 km ;7.3
+2018-08-19 00:19:40 (UTC);267 km E of Levuka, Fiji; 600.0 km ;8.2
+2018-02-25 17:44:44 (UTC);32 km SW of Tari, Papua New Guinea; 25.2 km ;7.5
+2018-02-16 23:39:39 (UTC);4 km S of Pinotepa de Don Luis, Mexico; 22.0 km ;7.2
+2021-10-02 06:29:17 (UTC);Vanuatu region; 527.0 km ;7.3
+2021-09-08 01:47:47 (UTC);Acapulco, Mexico; 20.0 km ;7.0
+2021-08-22 21:33:18 (UTC);South Sandwich Islands region; 6.0 km ;7.1
+2021-08-14 12:29:08 (UTC);Nippes, Haiti; 10.0 km ;7.2
+2021-08-12 18:35:17 (UTC);South Sandwich Islands region; 22.8 km ;8.1
+2021-08-12 18:32:52 (UTC);South Sandwich Islands region; 47.2 km ;7.5
+2021-08-11 17:46:13 (UTC);60 km ENE of Pondaguitan, Philippines; 55.1 km ;7.1
+2021-07-29 06:15:49 (UTC);99 km SE of Perryville, Alaska; 35.0 km ;8.2
+2021-05-21 18:04:13 (UTC);Southern Qinghai, China; 10.0 km ;7.3
+2021-03-20 09:09:43 (UTC);30 km E of Ishinomaki, Japan; 43.0 km ;7.0
+2021-03-04 19:28:33 (UTC);Kermadec Islands, New Zealand; 28.9 km ;8.1
+2021-03-04 17:41:23 (UTC);Kermadec Islands, New Zealand; 43.0 km ;7.4
+2021-03-04 13:27:34 (UTC);182 km NE of Gisborne, New Zealand; 10.0 km ;7.3
+2021-02-13 14:07:49 (UTC);73 km ENE of Namie, Japan; 44.0 km ;7.1
+2021-02-10 13:19:55 (UTC);southeast of the Loyalty Islands; 10.0 km ;7.7
+2021-01-21 12:23:04 (UTC);211 km SE of Pondaguitan, Philippines; 80.0 km ;7.0
+2020-10-30 11:51:27 (UTC);13 km NNE of Néon Karlovásion, Greece; 21.0 km ;7.0
+2020-10-19 20:54:38 (UTC);99 km SE of Sand Point, Alaska; 28.4 km ;7.6
+2020-07-22 06:12:44 (UTC);99 km SSE of Perryville, Alaska; 28.0 km ;7.8
+2020-07-17 02:50:22 (UTC);114 km NNW of Popondetta, Papua New Guinea; 73.0 km ;7.0
+2020-06-23 15:29:04 (UTC);9 km SE of Santa María Xadani, Mexico; 20.0 km ;7.4
+2020-06-18 12:49:53 (UTC);south of the Kermadec Islands; 10.0 km ;7.4
+2020-03-25 02:49:21 (UTC);221 km SSE of Severo-Kuril’sk, Russia; 57.8 km ;7.5
+2020-02-13 10:33:44 (UTC);95 km ENE of Kuril’sk, Russia; 143.0 km ;7.0
+2020-01-28 19:10:24 (UTC);123 km NNW of Lucea, Jamaica; 14.9 km ;7.7
+2019-11-14 16:17:40 (UTC);141 km NW of Ternate, Indonesia; 33.0 km ;7.1
+2019-07-14 09:10:51 (UTC);155 km SSE of Sofifi, Indonesia; 19.0 km ;7.2
+2019-07-06 03:19:53 (UTC);2019 Ridgecrest Earthquake Sequence; 8.0 km ;7.1
+2019-06-24 02:53:39 (UTC);Banda Sea; 212.0 km ;7.3
+2019-06-15 22:55:04 (UTC);Kermadec Islands, New Zealand; 46.0 km ;7.3
+2019-05-26 07:41:15 (UTC);78 km NE of Navarro, Peru; 122.6 km ;8.0
+2019-05-14 12:58:25 (UTC);48 km NE of Kokopo, Papua New Guinea; 10.0 km ;7.6
+2019-05-06 21:19:37 (UTC);32 km NW of Bulolo, Papua New Guinea; 146.0 km ;7.1
+2019-03-01 08:50:42 (UTC);22 km NNE of Azángaro, Peru; 267.0 km ;7.0
+2019-02-22 10:17:23 (UTC);115 km ESE of Palora, Ecuador; 145.0 km ;7.5
+2018-12-29 03:39:09 (UTC);96 km ESE of Pondaguitan, Philippines; 60.2 km ;7.0
+2018-12-20 17:01:55 (UTC);187 km SE of Ust’-Kamchatsk Staryy, Russia; 16.6 km ;7.3
+2018-12-11 02:26:29 (UTC);South Sandwich Islands region; 133.0 km ;7.1
+2018-12-05 04:18:08 (UTC);166 km ESE of Tadine, New Caledonia; 10.0 km ;7.5
+2018-11-30 17:29:29 (UTC);1 km SE of Point MacKenzie, Alaska; 46.7 km ;7.1
+2018-10-10 20:48:20 (UTC);119 km E of Kimbe, Papua New Guinea; 39.0 km ;7.0
+2018-09-28 10:02:45 (UTC);72 km N of Palu, Indonesia; 20.0 km ;7.5
+2018-09-06 15:49:18 (UTC);45 km S of Levuka, Fiji; 670.8 km ;7.9
+2018-08-29 03:51:56 (UTC);238 km ESE of Tadine, New Caledonia; 21.4 km ;7.1
+2018-08-24 09:04:08 (UTC);136 km W of Iñapari, Peru; 630.0 km ;7.1
+2018-08-21 21:31:47 (UTC);40 km ENE of Carúpano, Venezuela; 146.8 km ;7.3
+2018-08-19 00:19:40 (UTC);267 km E of Levuka, Fiji; 600.0 km ;8.2
+2018-02-25 17:44:44 (UTC);32 km SW of Tari, Papua New Guinea; 25.2 km ;7.5
+2018-02-16 23:39:39 (UTC);4 km S of Pinotepa de Don Luis, Mexico; 22.0 km ;7.2
+2018-01-23 09:31:40 (UTC);261 km SE of Chiniak, Alaska; 14.1 km ;7.9
+2018-01-14 09:18:45 (UTC);37 km W of Atiquipa, Peru; 39.0 km ;7.1
+2018-01-10 02:51:33 (UTC);203 km NNE of Barra Patuca, Honduras; 19.0 km ;7.5
+2017-11-19 22:43:29 (UTC);85 km ENE of Tadine, New Caledonia; 10.0 km ;7.0
+2017-11-12 18:18:17 (UTC);29 km S of ?alabja, Iraq; 19.0 km ;7.3
+2017-09-19 18:14:38 (UTC);1 km S of Matzaco, Mexico; 48.0 km ;7.1
+2017-09-08 04:49:19 (UTC);near the coast of Chiapas, Mexico; 47.4 km ;8.2
+2017-07-17 23:34:13 (UTC);Komandorskiye Ostrova, Russia region; 10.0 km ;7.7
+2017-01-22 04:30:22 (UTC);35 km WNW of Panguna, Papua New Guinea; 135.0 km ;7.9
+2017-01-10 06:13:48 (UTC);189 km SSE of Tabiauan, Philippines; 627.2 km ;7.3
+2016-12-25 14:22:27 (UTC);41 km SW of Quellón, Chile; 38.0 km ;7.6
+2016-12-17 10:51:10 (UTC);140 km E of Kokopo, Papua New Guinea; 94.5 km ;7.9
+2016-12-08 17:38:46 (UTC);69 km WSW of Kirakira, Solomon Islands; 40.0 km ;7.8
+2016-11-13 11:02:56 (UTC);53 km NNE of Amberley, New Zealand; 15.1 km ;7.8
+2016-09-01 16:37:57 (UTC);175 km NE of Gisborne, New Zealand; 19.0 km ;7.0
+2016-08-29 04:29:57 (UTC);north of Ascension Island; 10.0 km ;7.1
+2016-08-19 07:32:22 (UTC);South Georgia Island region; 10.0 km ;7.4
+2016-08-12 01:26:36 (UTC);southeast of the Loyalty Islands; 16.4 km ;7.2
+2016-07-29 21:18:24 (UTC);Pagan region, Northern Mariana Islands; 196.0 km ;7.7
+2016-05-28 09:46:59 (UTC);South Sandwich Islands region; 78.0 km ;7.2
+2016-04-28 19:33:24 (UTC);3 km NW of Norsup, Vanuatu; 24.0 km ;7.0
+2016-04-16 23:58:36 (UTC);27 km SSE of Muisne, Ecuador; 20.6 km ;7.8
+2016-04-15 16:25:06 (UTC);6 km ESE of Kumamoto, Japan; 10.0 km ;7.0
+2016-03-02 12:49:48 (UTC);southwest of Sumatra, Indonesia; 24.0 km ;7.8
+2016-01-30 03:25:12 (UTC);80 km S of Mil’kovo, Russia; 177.0 km ;7.2
+2016-01-24 10:30:29 (UTC);47 km ESE of Pedro Bay, Alaska; 125.6 km ;7.1
+2015-12-07 07:50:05 (UTC);104 km W of Murghob, Tajikistan; 22.0 km ;7.2
+2018-10-10 20:48:20 (UTC);119 km E of Kimbe, Papua New Guinea; 39.0 km ;7.0
+2018-09-28 10:02:45 (UTC);72 km N of Palu, Indonesia; 20.0 km ;7.5
+2018-09-06 15:49:18 (UTC);45 km S of Levuka, Fiji; 670.8 km ;7.9
+2018-08-29 03:51:56 (UTC);238 km ESE of Tadine, New Caledonia; 21.4 km ;7.1
+2018-08-24 09:04:08 (UTC);136 km W of Iñapari, Peru; 630.0 km ;7.1
+2018-08-21 21:31:47 (UTC);40 km ENE of Carúpano, Venezuela; 146.8 km ;7.3
+2018-08-19 00:19:40 (UTC);267 km E of Levuka, Fiji; 600.0 km ;8.2
+2018-02-25 17:44:44 (UTC);32 km SW of Tari, Papua New Guinea; 25.2 km ;7.5
+2018-02-16 23:39:39 (UTC);4 km S of Pinotepa de Don Luis, Mexico; 22.0 km ;7.2
+2018-01-23 09:31:40 (UTC);261 km SE of Chiniak, Alaska; 14.1 km ;7.9
+2018-01-14 09:18:45 (UTC);37 km W of Atiquipa, Peru; 39.0 km ;7.1
+2018-01-10 02:51:33 (UTC);203 km NNE of Barra Patuca, Honduras; 19.0 km ;7.5
+2017-11-19 22:43:29 (UTC);85 km ENE of Tadine, New Caledonia; 10.0 km ;7.0
+2017-11-12 18:18:17 (UTC);29 km S of ?alabja, Iraq; 19.0 km ;7.3
+2017-09-19 18:14:38 (UTC);1 km S of Matzaco, Mexico; 48.0 km ;7.1
+2017-09-08 04:49:19 (UTC);near the coast of Chiapas, Mexico; 47.4 km ;8.2
+2017-07-17 23:34:13 (UTC);Komandorskiye Ostrova, Russia region; 10.0 km ;7.7
+2017-01-22 04:30:22 (UTC);35 km WNW of Panguna, Papua New Guinea; 135.0 km ;7.9
+2017-01-10 06:13:48 (UTC);189 km SSE of Tabiauan, Philippines; 627.2 km ;7.3
+2016-12-25 14:22:27 (UTC);41 km SW of Quellón, Chile; 38.0 km ;7.6
+2016-12-17 10:51:10 (UTC);140 km E of Kokopo, Papua New Guinea; 94.5 km ;7.9
+2016-12-08 17:38:46 (UTC);69 km WSW of Kirakira, Solomon Islands; 40.0 km ;7.8
+2016-11-13 11:02:56 (UTC);53 km NNE of Amberley, New Zealand; 15.1 km ;7.8
+2016-09-01 16:37:57 (UTC);175 km NE of Gisborne, New Zealand; 19.0 km ;7.0
+2016-08-29 04:29:57 (UTC);north of Ascension Island; 10.0 km ;7.1
+2016-08-19 07:32:22 (UTC);South Georgia Island region; 10.0 km ;7.4
+2016-08-12 01:26:36 (UTC);southeast of the Loyalty Islands; 16.4 km ;7.2
+2016-07-29 21:18:24 (UTC);Pagan region, Northern Mariana Islands; 196.0 km ;7.7
+2016-05-28 09:46:59 (UTC);South Sandwich Islands region; 78.0 km ;7.2
+2016-04-28 19:33:24 (UTC);3 km NW of Norsup, Vanuatu; 24.0 km ;7.0
+2016-04-16 23:58:36 (UTC);27 km SSE of Muisne, Ecuador; 20.6 km ;7.8
+2016-04-15 16:25:06 (UTC);6 km ESE of Kumamoto, Japan; 10.0 km ;7.0
+2016-03-02 12:49:48 (UTC);southwest of Sumatra, Indonesia; 24.0 km ;7.8
+2016-01-30 03:25:12 (UTC);80 km S of Mil’kovo, Russia; 177.0 km ;7.2
+2016-01-24 10:30:29 (UTC);47 km ESE of Pedro Bay, Alaska; 125.6 km ;7.1
+2015-12-07 07:50:05 (UTC);104 km W of Murghob, Tajikistan; 22.0 km ;7.2
+2015-12-04 22:25:00 (UTC);southeast Indian Ridge; 35.0 km ;7.1
+2015-11-24 22:50:54 (UTC);185 km WNW of Iñapari, Peru; 620.6 km ;7.6
+2015-11-24 22:45:38 (UTC);155 km WNW of Iñapari, Peru; 606.2 km ;7.6
+2015-10-26 09:09:42 (UTC);Hindu Kush region, Afghanistan; 231.0 km ;7.5
+2015-10-20 21:52:02 (UTC);31 km NE of Port-Olry, Vanuatu; 135.0 km ;7.1
+2015-09-16 23:18:41 (UTC);25 km WNW of Illapel, Chile; 28.4 km ;7.0
+2015-09-16 22:54:32 (UTC);48 km W of Illapel, Chile; 22.4 km ;8.3
+2015-07-27 21:41:21 (UTC);234 km W of Abepura, Indonesia; 48.0 km ;7.0
+2015-07-18 02:27:33 (UTC);80 km WNW of Lata, Solomon Islands; 11.0 km ;7.0
+2015-06-17 12:51:32 (UTC);southern Mid-Atlantic Ridge; 10.0 km ;7.0
+2015-05-30 11:23:02 (UTC);Bonin Islands, Japan region; 664.0 km ;7.8
+2015-05-12 07:05:19 (UTC);Nepal; 15.0 km ;7.3
+2015-05-07 07:10:19 (UTC);143 km SW of Panguna, Papua New Guinea; 10.0 km ;7.1
+2015-05-05 01:44:06 (UTC);131 km SSW of Kokopo, Papua New Guinea; 55.0 km ;7.5
+2015-04-25 06:11:25 (UTC);67 km NNE of Bharatpur, Nepal; 8.2 km ;7.8
+2015-03-29 23:48:31 (UTC);53 km SE of Kokopo, Papua New Guinea; 41.0 km ;7.5
+2015-02-27 13:45:05 (UTC);150 km NNE of Maumere, Indonesia; 552.1 km ;7.0
+2015-02-13 18:59:12 (UTC);northern Mid-Atlantic Ridge; 16.7 km ;7.1
+2014-11-15 02:31:41 (UTC);155 km NW of Ternate, Indonesia; 45.0 km ;7.1
+2014-11-01 18:57:22 (UTC);Fiji region; 434.0 km ;7.1
+2014-10-14 03:51:34 (UTC);74 km S of Intipucá, El Salvador; 40.0 km ;7.3
+2014-10-09 02:14:31 (UTC);southern East Pacific Rise; 16.5 km ;7.0
+2014-06-23 20:53:09 (UTC);Rat Islands, Aleutian Islands, Alaska; 109.0 km ;7.9
+2014-04-19 13:28:00 (UTC);70 km SW of Panguna, Papua New Guinea; 43.4 km ;7.5
+2014-04-18 14:27:24 (UTC);9 km ENE of Coyuquilla Norte, Mexico; 24.0 km ;7.2
+2014-04-13 12:36:19 (UTC);112 km S of Kirakira, Solomon Islands; 39.0 km ;7.4
+2014-04-12 20:14:39 (UTC);93 km SSE of Kirakira, Solomon Islands; 22.6 km ;7.6
+2014-04-11 07:07:23 (UTC);56 km WSW of Panguna, Papua New Guinea; 60.5 km ;7.1
+2014-04-03 02:43:13 (UTC);53 km SW of Iquique, Chile; 22.4 km ;7.7
+2014-04-01 23:46:47 (UTC);93 km NW of Iquique, Chile; 25.0 km ;8.2
+2013-11-25 06:27:33 (UTC);Falkland Islands region; 11.8 km ;7.0
+2013-11-17 09:04:55 (UTC);Scotia Sea; 10.0 km ;7.7
+2013-10-25 17:10:19 (UTC);off the east coast of Honshu, Japan; 35.0 km ;7.1
+2013-10-15 00:12:32 (UTC);4 km SE of Sagbayan, Philippines; 19.0 km ;7.1
+2013-09-25 16:42:43 (UTC);16 km WSW of Atiquipa, Peru; 40.0 km ;7.1
+2013-09-24 11:29:47 (UTC);113 km NW of Bela, Pakistan; 15.0 km ;7.7
+2013-08-30 16:25:02 (UTC);101 km SW of Atka, Alaska; 29.0 km ;7.0
+2013-07-15 14:03:39 (UTC);South Sandwich Islands region; 11.0 km ;7.3
+2013-07-07 18:35:30 (UTC);190 km ENE of Kokopo, Papua New Guinea; 385.5 km ;7.3
+2013-05-24 05:44:48 (UTC);Sea of Okhotsk; 598.1 km ;8.3
+2015-07-27 21:41:21 (UTC);234 km W of Abepura, Indonesia; 48.0 km ;7.0
+2015-07-18 02:27:33 (UTC);80 km WNW of Lata, Solomon Islands; 11.0 km ;7.0
+2015-06-17 12:51:32 (UTC);southern Mid-Atlantic Ridge; 10.0 km ;7.0
+2015-05-30 11:23:02 (UTC);Bonin Islands, Japan region; 664.0 km ;7.8
+2015-05-12 07:05:19 (UTC);Nepal; 15.0 km ;7.3
+2015-05-07 07:10:19 (UTC);143 km SW of Panguna, Papua New Guinea; 10.0 km ;7.1
+2015-05-05 01:44:06 (UTC);131 km SSW of Kokopo, Papua New Guinea; 55.0 km ;7.5
+2015-04-25 06:11:25 (UTC);67 km NNE of Bharatpur, Nepal; 8.2 km ;7.8
+2015-03-29 23:48:31 (UTC);53 km SE of Kokopo, Papua New Guinea; 41.0 km ;7.5
+2015-02-27 13:45:05 (UTC);150 km NNE of Maumere, Indonesia; 552.1 km ;7.0
+2015-02-13 18:59:12 (UTC);northern Mid-Atlantic Ridge; 16.7 km ;7.1
+2014-11-15 02:31:41 (UTC);155 km NW of Ternate, Indonesia; 45.0 km ;7.1
+2014-11-01 18:57:22 (UTC);Fiji region; 434.0 km ;7.1
+2014-10-14 03:51:34 (UTC);74 km S of Intipucá, El Salvador; 40.0 km ;7.3
+2014-10-09 02:14:31 (UTC);southern East Pacific Rise; 16.5 km ;7.0
+2014-06-23 20:53:09 (UTC);Rat Islands, Aleutian Islands, Alaska; 109.0 km ;7.9
+2014-04-19 13:28:00 (UTC);70 km SW of Panguna, Papua New Guinea; 43.4 km ;7.5
+2014-04-18 14:27:24 (UTC);9 km ENE of Coyuquilla Norte, Mexico; 24.0 km ;7.2
+2014-04-13 12:36:19 (UTC);112 km S of Kirakira, Solomon Islands; 39.0 km ;7.4
+2014-04-12 20:14:39 (UTC);93 km SSE of Kirakira, Solomon Islands; 22.6 km ;7.6
+2014-04-11 07:07:23 (UTC);56 km WSW of Panguna, Papua New Guinea; 60.5 km ;7.1
+2014-04-03 02:43:13 (UTC);53 km SW of Iquique, Chile; 22.4 km ;7.7
+2014-04-01 23:46:47 (UTC);93 km NW of Iquique, Chile; 25.0 km ;8.2
+2013-11-25 06:27:33 (UTC);Falkland Islands region; 11.8 km ;7.0
+2013-11-17 09:04:55 (UTC);Scotia Sea; 10.0 km ;7.7
+2013-10-25 17:10:19 (UTC);off the east coast of Honshu, Japan; 35.0 km ;7.1
+2013-10-15 00:12:32 (UTC);4 km SE of Sagbayan, Philippines; 19.0 km ;7.1
+2013-09-25 16:42:43 (UTC);16 km WSW of Atiquipa, Peru; 40.0 km ;7.1
+2013-09-24 11:29:47 (UTC);113 km NW of Bela, Pakistan; 15.0 km ;7.7
+2013-08-30 16:25:02 (UTC);101 km SW of Atka, Alaska; 29.0 km ;7.0
+2013-07-15 14:03:39 (UTC);South Sandwich Islands region; 11.0 km ;7.3
+2013-07-07 18:35:30 (UTC);190 km ENE of Kokopo, Papua New Guinea; 385.5 km ;7.3
+2013-05-24 05:44:48 (UTC);Sea of Okhotsk; 598.1 km ;8.3
+2013-05-23 17:19:04 (UTC);292 km SW of Vaini, Tonga; 173.7 km ;7.4
+2013-04-19 03:05:52 (UTC);252 km ENE of Kuril’sk, Russia; 110.0 km ;7.2
+2013-04-16 10:44:20 (UTC);79 km ESE of Kh?sh, Iran; 80.0 km ;7.7
+2013-04-06 04:42:35 (UTC);260 km WSW of Abepura, Indonesia; 66.0 km ;7.0
+2013-02-08 15:26:38 (UTC);32 km SE of Lata, Solomon Islands; 21.0 km ;7.1
+2013-02-06 01:54:14 (UTC);33 km NW of Lata, Solomon Islands; 8.8 km ;7.0
+2013-02-06 01:23:19 (UTC);112 km WSW of Lata, Solomon Islands; 10.0 km ;7.1
+2013-02-06 01:12:25 (UTC);75 km W of Lata, Solomon Islands; 24.0 km ;8.0
+2013-01-05 08:58:14 (UTC);110 km SW of Edna Bay, Alaska; 8.7 km ;7.5
+2012-12-10 16:53:08 (UTC);Banda Sea; 155.0 km ;7.1
+2012-12-07 08:18:23 (UTC);234 km SE of ?funato, Japan; 31.0 km ;7.3
+2012-11-07 16:35:46 (UTC);33 km S of Champerico, Guatemala; 24.0 km ;7.4
+2012-10-28 03:04:08 (UTC);206 km SW of Prince Rupert, Canada; 14.0 km ;7.8
+2012-09-30 16:31:35 (UTC);11 km WNW of San Agustín, Colombia; 170.0 km ;7.3
+2012-09-05 14:42:07 (UTC);11 km ENE of Hojancha, Costa Rica; 35.0 km ;7.6
+2012-08-31 12:47:33 (UTC);89 km E of Sulangan, Philippines; 28.0 km ;7.6
+2012-08-27 04:37:19 (UTC);126 km S of Puerto El Triunfo, El Salvador; 28.0 km ;7.3
+2012-08-14 02:59:38 (UTC);156 km ENE of Poronaysk, Russia; 583.2 km ;7.7
+2012-04-12 07:15:48 (UTC);69 km ENE of San Luis, Mexico; 13.0 km ;7.0
+2012-04-11 10:43:10 (UTC);off the west coast of northern Sumatra; 25.1 km ;8.2
+2012-04-11 08:38:36 (UTC);off the west coast of northern Sumatra; 20.0 km ;8.6
+2012-03-25 22:37:06 (UTC);23 km NE of Constitución, Chile; 40.7 km ;7.1
+2012-03-20 18:02:47 (UTC);6 km E of Santiago Llano Grande, Mexico; 20.0 km ;7.4
+2012-02-02 13:34:40 (UTC);125 km W of Port-Vila, Vanuatu; 23.0 km ;7.1
+2012-01-10 18:36:59 (UTC);off the west coast of northern Sumatra; 19.0 km ;7.2
+2011-12-14 05:04:58 (UTC);25 km SSE of Wau, Papua New Guinea; 135.0 km ;7.1
+2011-10-23 10:41:23 (UTC);27 km NNE of Van, Turkey; 18.0 km ;7.1
+2011-10-21 17:57:16 (UTC);Kermadec Islands region; 33.0 km ;7.4
+2011-09-15 19:31:04 (UTC);Fiji region; 644.6 km ;7.3
+2011-09-03 22:55:40 (UTC);133 km SSE of Isangel, Vanuatu; 185.1 km ;7.0
+2011-08-24 17:46:11 (UTC);64 km ESE of Contamana, Peru; 147.0 km ;7.0
+2011-08-20 18:19:23 (UTC);64 km S of Port-Vila, Vanuatu; 28.0 km ;7.1
+2011-08-20 16:55:02 (UTC);71 km SSW of Port-Vila, Vanuatu; 32.0 km ;7.2
+2011-07-10 00:57:10 (UTC);177 km ESE of Ishinomaki, Japan; 23.0 km ;7.0
+2011-07-06 19:03:18 (UTC);Kermadec Islands region; 17.0 km ;7.6
+2011-06-24 03:09:39 (UTC);Fox Islands, Aleutian Islands, Alaska; 52.0 km ;7.3
+2011-04-07 14:32:43 (UTC);29 km ESE of Ishinomaki, Japan; 42.0 km ;7.1
+2011-03-11 06:25:50 (UTC);272 km ESE of Kamaishi, Japan; 18.6 km ;7.7
+2011-03-11 06:15:40 (UTC);47 km E of ?arai, Japan; 42.6 km ;7.9
+2011-03-11 05:46:24 (UTC);2011 Great Tohoku Earthquake, Japan; 29.0 km ;9.1
+2011-03-09 02:45:20 (UTC);120 km SE of ?funato, Japan; 32.0 km ;7.3
+2011-01-18 20:23:23 (UTC);46 km WSW of Dalbandin, Pakistan; 68.0 km ;7.2
+2011-01-13 16:16:41 (UTC);118 km NNE of Tadine, New Caledonia; 9.0 km ;7.0
+2013-04-16 10:44:20 (UTC);79 km ESE of Kh?sh, Iran; 80.0 km ;7.7
+2013-04-06 04:42:35 (UTC);260 km WSW of Abepura, Indonesia; 66.0 km ;7.0
+2013-02-08 15:26:38 (UTC);32 km SE of Lata, Solomon Islands; 21.0 km ;7.1
+2013-02-06 01:54:14 (UTC);33 km NW of Lata, Solomon Islands; 8.8 km ;7.0
+2013-02-06 01:23:19 (UTC);112 km WSW of Lata, Solomon Islands; 10.0 km ;7.1
+2013-02-06 01:12:25 (UTC);75 km W of Lata, Solomon Islands; 24.0 km ;8.0
+2013-01-05 08:58:14 (UTC);110 km SW of Edna Bay, Alaska; 8.7 km ;7.5
+2012-12-10 16:53:08 (UTC);Banda Sea; 155.0 km ;7.1
+2012-12-07 08:18:23 (UTC);234 km SE of ?funato, Japan; 31.0 km ;7.3
+2012-11-07 16:35:46 (UTC);33 km S of Champerico, Guatemala; 24.0 km ;7.4
+2012-10-28 03:04:08 (UTC);206 km SW of Prince Rupert, Canada; 14.0 km ;7.8
+2012-09-30 16:31:35 (UTC);11 km WNW of San Agustín, Colombia; 170.0 km ;7.3
+2012-09-05 14:42:07 (UTC);11 km ENE of Hojancha, Costa Rica; 35.0 km ;7.6
+2012-08-31 12:47:33 (UTC);89 km E of Sulangan, Philippines; 28.0 km ;7.6
+2012-08-27 04:37:19 (UTC);126 km S of Puerto El Triunfo, El Salvador; 28.0 km ;7.3
+2012-08-14 02:59:38 (UTC);156 km ENE of Poronaysk, Russia; 583.2 km ;7.7
+2012-04-12 07:15:48 (UTC);69 km ENE of San Luis, Mexico; 13.0 km ;7.0
+2012-04-11 10:43:10 (UTC);off the west coast of northern Sumatra; 25.1 km ;8.2
+2012-04-11 08:38:36 (UTC);off the west coast of northern Sumatra; 20.0 km ;8.6
+2012-03-25 22:37:06 (UTC);23 km NE of Constitución, Chile; 40.7 km ;7.1
+2012-03-20 18:02:47 (UTC);6 km E of Santiago Llano Grande, Mexico; 20.0 km ;7.4
+2012-02-02 13:34:40 (UTC);125 km W of Port-Vila, Vanuatu; 23.0 km ;7.1
+2012-01-10 18:36:59 (UTC);off the west coast of northern Sumatra; 19.0 km ;7.2
+2011-12-14 05:04:58 (UTC);25 km SSE of Wau, Papua New Guinea; 135.0 km ;7.1
+2011-10-23 10:41:23 (UTC);27 km NNE of Van, Turkey; 18.0 km ;7.1
+2011-10-21 17:57:16 (UTC);Kermadec Islands region; 33.0 km ;7.4
+2011-09-15 19:31:04 (UTC);Fiji region; 644.6 km ;7.3
+2011-09-03 22:55:40 (UTC);133 km SSE of Isangel, Vanuatu; 185.1 km ;7.0
+2011-08-24 17:46:11 (UTC);64 km ESE of Contamana, Peru; 147.0 km ;7.0
+2011-08-20 18:19:23 (UTC);64 km S of Port-Vila, Vanuatu; 28.0 km ;7.1
+2011-08-20 16:55:02 (UTC);71 km SSW of Port-Vila, Vanuatu; 32.0 km ;7.2
+2011-07-10 00:57:10 (UTC);177 km ESE of Ishinomaki, Japan; 23.0 km ;7.0
+2011-07-06 19:03:18 (UTC);Kermadec Islands region; 17.0 km ;7.6
+2011-06-24 03:09:39 (UTC);Fox Islands, Aleutian Islands, Alaska; 52.0 km ;7.3
+2011-04-07 14:32:43 (UTC);29 km ESE of Ishinomaki, Japan; 42.0 km ;7.1
+2011-03-11 06:25:50 (UTC);272 km ESE of Kamaishi, Japan; 18.6 km ;7.7
+2011-03-11 06:15:40 (UTC);47 km E of ?arai, Japan; 42.6 km ;7.9
+2011-03-11 05:46:24 (UTC);2011 Great Tohoku Earthquake, Japan; 29.0 km ;9.1
+2011-03-09 02:45:20 (UTC);120 km SE of ?funato, Japan; 32.0 km ;7.3
+2011-01-18 20:23:23 (UTC);46 km WSW of Dalbandin, Pakistan; 68.0 km ;7.2
+2011-01-13 16:16:41 (UTC);118 km NNE of Tadine, New Caledonia; 9.0 km ;7.0
+2011-01-02 20:20:17 (UTC);42 km NNW of Carahue, Chile; 24.0 km ;7.2
+2011-01-01 09:56:58 (UTC);26 km NNE of El Hoyo, Argentina; 576.8 km ;7.0
+2010-12-25 13:16:37 (UTC);141 km W of Isangel, Vanuatu; 16.0 km ;7.3
+2010-12-21 17:19:40 (UTC);Bonin Islands, Japan region; 14.0 km ;7.4
+2010-10-25 14:42:22 (UTC);215 km SW of Sungai Penuh, Indonesia; 20.1 km ;7.8
+2010-09-29 17:11:25 (UTC);Near the south coast of Papua, Indonesia; 26.0 km ;7.0
+2010-09-03 16:35:47 (UTC);19 km NE of Methven, New Zealand; 12.0 km ;7.0
+2010-08-12 11:54:15 (UTC);Ecuador; 206.7 km ;7.1
+2010-08-10 05:23:44 (UTC);33 km NW of Port-Vila, Vanuatu; 25.0 km ;7.3
+2010-08-04 22:01:43 (UTC);72 km ESE of Kimbe, Papua New Guinea; 44.0 km ;7.0
+2010-07-23 23:15:10 (UTC);72 km S of Panubigan, Philippines; 640.6 km ;7.5
+2010-07-23 22:51:11 (UTC);61 km W of Bantogon, Philippines; 578.0 km ;7.6
+2010-07-23 22:08:11 (UTC);68 km W of Gadung, Philippines; 607.1 km ;7.3
+2010-07-18 13:34:59 (UTC);New Britain region, Papua New Guinea; 35.0 km ;7.3
+2010-06-16 03:16:27 (UTC);121 km SSE of Biak, Indonesia; 18.0 km ;7.0
+2010-06-12 19:26:50 (UTC);Nicobar Islands, India region; 35.0 km ;7.5
+2010-05-27 17:14:46 (UTC);100 km WNW of Sola, Vanuatu; 31.0 km ;7.2
+2010-05-09 05:59:41 (UTC);45 km SSW of Meulaboh, Indonesia; 38.0 km ;7.2
+2010-04-06 22:15:01 (UTC);75 km E of Sinabang, Indonesia; 31.0 km ;7.8
+2010-04-04 22:40:42 (UTC);12km SW of Delta, B.C., MX; 10.0 km ;7.2
+2010-03-11 14:55:27 (UTC);52 km NW of Santa Cruz, Chile; 18.0 km ;7.0
+2010-02-27 08:01:23 (UTC);124 km W of Lebu, Chile; 35.0 km ;7.4
+2010-02-27 06:34:11 (UTC);36 km WNW of Quirihue, Chile; 22.9 km ;8.8
+2010-02-26 20:31:26 (UTC);70 km SE of Katsuren-haebaru, Japan; 25.0 km ;7.0
+2010-01-12 21:53:10 (UTC);10 km SE of Léogâne, Haiti; 13.0 km ;7.0
+2010-01-03 22:36:25 (UTC);94 km SE of Gizo, Solomon Islands; 10.0 km ;7.1
+2009-11-09 10:44:55 (UTC);77 km ENE of Ba, Fiji; 595.0 km ;7.3
+2009-10-07 23:13:48 (UTC);143 km NW of Sola, Vanuatu; 31.1 km ;7.4
+2009-10-07 22:18:51 (UTC);196 km NW of Sola, Vanuatu; 35.0 km ;7.8
+2009-10-07 22:03:14 (UTC);148 km NW of Sola, Vanuatu; 45.0 km ;7.7
+2009-09-30 10:16:09 (UTC);30 km WSW of Pariaman, Indonesia; 81.0 km ;7.6
+2009-09-29 17:48:10 (UTC);168 km SSW of Matavai, Samoa; 18.0 km ;8.1
+2009-09-02 07:55:01 (UTC);66 km SSW of Banjar, Indonesia; 46.0 km ;7.0
+2009-08-10 19:55:38 (UTC);266 km N of Bamboo Flat, India; 24.0 km ;7.5
+2011-03-09 02:45:20 (UTC);120 km SE of ?funato, Japan; 32.0 km ;7.3
+2011-01-18 20:23:23 (UTC);46 km WSW of Dalbandin, Pakistan; 68.0 km ;7.2
+2011-01-13 16:16:41 (UTC);118 km NNE of Tadine, New Caledonia; 9.0 km ;7.0
+2011-01-02 20:20:17 (UTC);42 km NNW of Carahue, Chile; 24.0 km ;7.2
+2011-01-01 09:56:58 (UTC);26 km NNE of El Hoyo, Argentina; 576.8 km ;7.0
+2010-12-25 13:16:37 (UTC);141 km W of Isangel, Vanuatu; 16.0 km ;7.3
+2010-12-21 17:19:40 (UTC);Bonin Islands, Japan region; 14.0 km ;7.4
+2010-10-25 14:42:22 (UTC);215 km SW of Sungai Penuh, Indonesia; 20.1 km ;7.8
+2010-09-29 17:11:25 (UTC);Near the south coast of Papua, Indonesia; 26.0 km ;7.0
+2010-09-03 16:35:47 (UTC);19 km NE of Methven, New Zealand; 12.0 km ;7.0
+2010-08-12 11:54:15 (UTC);Ecuador; 206.7 km ;7.1
+2010-08-10 05:23:44 (UTC);33 km NW of Port-Vila, Vanuatu; 25.0 km ;7.3
+2010-08-04 22:01:43 (UTC);72 km ESE of Kimbe, Papua New Guinea; 44.0 km ;7.0
+2010-07-23 23:15:10 (UTC);72 km S of Panubigan, Philippines; 640.6 km ;7.5
+2010-07-23 22:51:11 (UTC);61 km W of Bantogon, Philippines; 578.0 km ;7.6
+2010-07-23 22:08:11 (UTC);68 km W of Gadung, Philippines; 607.1 km ;7.3
+2010-07-18 13:34:59 (UTC);New Britain region, Papua New Guinea; 35.0 km ;7.3
+2010-06-16 03:16:27 (UTC);121 km SSE of Biak, Indonesia; 18.0 km ;7.0
+2010-06-12 19:26:50 (UTC);Nicobar Islands, India region; 35.0 km ;7.5
+2010-05-27 17:14:46 (UTC);100 km WNW of Sola, Vanuatu; 31.0 km ;7.2
+2010-05-09 05:59:41 (UTC);45 km SSW of Meulaboh, Indonesia; 38.0 km ;7.2
+2010-04-06 22:15:01 (UTC);75 km E of Sinabang, Indonesia; 31.0 km ;7.8
+2010-04-04 22:40:42 (UTC);12km SW of Delta, B.C., MX; 10.0 km ;7.2
+2010-03-11 14:55:27 (UTC);52 km NW of Santa Cruz, Chile; 18.0 km ;7.0
+2010-02-27 08:01:23 (UTC);124 km W of Lebu, Chile; 35.0 km ;7.4
+2010-02-27 06:34:11 (UTC);36 km WNW of Quirihue, Chile; 22.9 km ;8.8
+2010-02-26 20:31:26 (UTC);70 km SE of Katsuren-haebaru, Japan; 25.0 km ;7.0
+2010-01-12 21:53:10 (UTC);10 km SE of Léogâne, Haiti; 13.0 km ;7.0
+2010-01-03 22:36:25 (UTC);94 km SE of Gizo, Solomon Islands; 10.0 km ;7.1
+2009-11-09 10:44:55 (UTC);77 km ENE of Ba, Fiji; 595.0 km ;7.3
+2009-10-07 23:13:48 (UTC);143 km NW of Sola, Vanuatu; 31.1 km ;7.4
+2009-10-07 22:18:51 (UTC);196 km NW of Sola, Vanuatu; 35.0 km ;7.8
+2009-10-07 22:03:14 (UTC);148 km NW of Sola, Vanuatu; 45.0 km ;7.7
+2009-09-30 10:16:09 (UTC);30 km WSW of Pariaman, Indonesia; 81.0 km ;7.6
+2009-09-29 17:48:10 (UTC);168 km SSW of Matavai, Samoa; 18.0 km ;8.1
+2009-09-02 07:55:01 (UTC);66 km SSW of Banjar, Indonesia; 46.0 km ;7.0
+2009-08-10 19:55:38 (UTC);266 km N of Bamboo Flat, India; 24.0 km ;7.5
+2009-08-09 10:55:55 (UTC);161 km S of ?yama, Japan; 292.0 km ;7.1
+2009-07-15 09:22:29 (UTC);97 km WSW of Te Anau, New Zealand; 12.0 km ;7.8
+2009-05-28 08:24:46 (UTC);46 km NW of Guanaja, Honduras; 19.0 km ;7.3
+2009-03-19 18:17:40 (UTC);191 km S of ‘Ohonua, Tonga; 31.0 km ;7.6
+2009-02-18 21:53:45 (UTC);Kermadec Islands region; 25.0 km ;7.0
+2009-02-11 17:34:50 (UTC);196 km SSE of Sarangani, Philippines; 20.0 km ;7.2
+2009-01-15 17:49:39 (UTC);east of the Kuril Islands; 36.0 km ;7.4
+2009-01-03 22:33:40 (UTC);86 km WNW of Manokwari, Indonesia; 23.0 km ;7.4
+2009-01-03 19:43:50 (UTC);140 km WNW of Manokwari, Indonesia; 17.0 km ;7.7
+2008-11-24 09:02:58 (UTC);284 km WSW of Mil’kovo, Russia; 492.3 km ;7.3
+2008-11-16 17:02:32 (UTC);135 km NW of Gorontalo, Indonesia; 30.0 km ;7.4
+2008-09-29 15:19:31 (UTC);Kermadec Islands, New Zealand; 36.0 km ;7.0
+2008-07-19 02:39:28 (UTC);107 km E of Namie, Japan; 22.0 km ;7.0
+2008-07-05 02:12:04 (UTC);Sea of Okhotsk; 632.8 km ;7.7
+2008-06-30 06:17:43 (UTC);South Sandwich Islands region; 8.0 km ;7.0
+2008-05-12 06:28:01 (UTC);58 km W of Tianpeng, China; 19.0 km ;7.9
+2008-04-12 00:30:12 (UTC);Macquarie Island region; 16.0 km ;7.1
+2008-04-09 12:46:12 (UTC);71 km SW of Isangel, Vanuatu; 33.0 km ;7.3
+2008-03-20 22:32:57 (UTC);226 km SE of Hotan, China; 10.0 km ;7.2
+2008-02-25 08:36:33 (UTC);164 km WSW of Sungai Penuh, Indonesia; 25.0 km ;7.2
+2008-02-20 08:08:30 (UTC);56 km NW of Sinabang, Indonesia; 26.0 km ;7.4
+2007-12-19 09:30:27 (UTC);207 km WSW of Adak, Alaska; 34.0 km ;7.2
+2007-12-09 07:28:20 (UTC);south of the Fiji Islands; 152.5 km ;7.8
+2007-11-29 19:00:20 (UTC);18 km WNW of Basse-Pointe, Martinique; 156.0 km ;7.4
+2007-11-14 15:40:50 (UTC);36 km ESE of Tocopilla, Chile; 40.0 km ;7.7
+2007-10-31 03:30:15 (UTC);Pagan region, Northern Mariana Islands; 207.0 km ;7.2
+2007-09-30 05:23:34 (UTC);Auckland Islands, New Zealand region; 10.0 km ;7.4
+2007-09-28 13:38:57 (UTC);Volcano Islands, Japan region; 260.0 km ;7.5
+2007-09-13 03:35:28 (UTC);153 km SSW of Padang, Indonesia; 22.0 km ;7.0
+2007-09-12 23:49:03 (UTC);87 km SW of Sungai Penuh, Indonesia; 35.0 km ;7.9
+2007-09-12 11:10:26 (UTC);122 km SW of Bengkulu, Indonesia; 34.0 km ;8.4
+2007-09-02 01:05:18 (UTC);97 km S of Lata, Solomon Islands; 35.0 km ;7.2
+2007-08-15 23:40:57 (UTC);41 km SW of San Vicente de Cañete, Peru; 39.0 km ;8.0
+2007-08-08 17:05:04 (UTC);35 km NNE of Rengasdengklok, Indonesia; 280.0 km ;7.5
+2007-08-01 17:08:51 (UTC);56 km E of Luganville, Vanuatu; 120.0 km ;7.2
+2007-04-01 20:39:58 (UTC);45 km SSE of Gizo, Solomon Islands; 24.0 km ;8.1
+2007-03-25 00:40:01 (UTC);119 km S of Isangel, Vanuatu; 34.0 km ;7.1
+2007-01-21 11:27:45 (UTC);126 km WNW of Ternate, Indonesia; 22.0 km ;7.5
+2007-01-13 04:23:21 (UTC);east of the Kuril Islands; 10.0 km ;8.1
+2009-07-15 09:22:29 (UTC);97 km WSW of Te Anau, New Zealand; 12.0 km ;7.8
+2009-05-28 08:24:46 (UTC);46 km NW of Guanaja, Honduras; 19.0 km ;7.3
+2009-03-19 18:17:40 (UTC);191 km S of ‘Ohonua, Tonga; 31.0 km ;7.6
+2009-02-18 21:53:45 (UTC);Kermadec Islands region; 25.0 km ;7.0
+2009-02-11 17:34:50 (UTC);196 km SSE of Sarangani, Philippines; 20.0 km ;7.2
+2009-01-15 17:49:39 (UTC);east of the Kuril Islands; 36.0 km ;7.4
+2009-01-03 22:33:40 (UTC);86 km WNW of Manokwari, Indonesia; 23.0 km ;7.4
+2009-01-03 19:43:50 (UTC);140 km WNW of Manokwari, Indonesia; 17.0 km ;7.7
+2008-11-24 09:02:58 (UTC);284 km WSW of Mil’kovo, Russia; 492.3 km ;7.3
+2008-11-16 17:02:32 (UTC);135 km NW of Gorontalo, Indonesia; 30.0 km ;7.4
+2008-09-29 15:19:31 (UTC);Kermadec Islands, New Zealand; 36.0 km ;7.0
+2008-07-19 02:39:28 (UTC);107 km E of Namie, Japan; 22.0 km ;7.0
+2008-07-05 02:12:04 (UTC);Sea of Okhotsk; 632.8 km ;7.7
+2008-06-30 06:17:43 (UTC);South Sandwich Islands region; 8.0 km ;7.0
+2008-05-12 06:28:01 (UTC);58 km W of Tianpeng, China; 19.0 km ;7.9
+2008-04-12 00:30:12 (UTC);Macquarie Island region; 16.0 km ;7.1
+2008-04-09 12:46:12 (UTC);71 km SW of Isangel, Vanuatu; 33.0 km ;7.3
+2008-03-20 22:32:57 (UTC);226 km SE of Hotan, China; 10.0 km ;7.2
+2008-02-25 08:36:33 (UTC);164 km WSW of Sungai Penuh, Indonesia; 25.0 km ;7.2
+2008-02-20 08:08:30 (UTC);56 km NW of Sinabang, Indonesia; 26.0 km ;7.4
+2007-12-19 09:30:27 (UTC);207 km WSW of Adak, Alaska; 34.0 km ;7.2
+2007-12-09 07:28:20 (UTC);south of the Fiji Islands; 152.5 km ;7.8
+2007-11-29 19:00:20 (UTC);18 km WNW of Basse-Pointe, Martinique; 156.0 km ;7.4
+2007-11-14 15:40:50 (UTC);36 km ESE of Tocopilla, Chile; 40.0 km ;7.7
+2007-10-31 03:30:15 (UTC);Pagan region, Northern Mariana Islands; 207.0 km ;7.2
+2007-09-30 05:23:34 (UTC);Auckland Islands, New Zealand region; 10.0 km ;7.4
+2007-09-28 13:38:57 (UTC);Volcano Islands, Japan region; 260.0 km ;7.5
+2007-09-13 03:35:28 (UTC);153 km SSW of Padang, Indonesia; 22.0 km ;7.0
+2007-09-12 23:49:03 (UTC);87 km SW of Sungai Penuh, Indonesia; 35.0 km ;7.9
+2007-09-12 11:10:26 (UTC);122 km SW of Bengkulu, Indonesia; 34.0 km ;8.4
+2007-09-02 01:05:18 (UTC);97 km S of Lata, Solomon Islands; 35.0 km ;7.2
+2007-08-15 23:40:57 (UTC);41 km SW of San Vicente de Cañete, Peru; 39.0 km ;8.0
+2007-08-08 17:05:04 (UTC);35 km NNE of Rengasdengklok, Indonesia; 280.0 km ;7.5
+2007-08-01 17:08:51 (UTC);56 km E of Luganville, Vanuatu; 120.0 km ;7.2
+2007-04-01 20:39:58 (UTC);45 km SSE of Gizo, Solomon Islands; 24.0 km ;8.1
+2007-03-25 00:40:01 (UTC);119 km S of Isangel, Vanuatu; 34.0 km ;7.1
+2007-01-21 11:27:45 (UTC);126 km WNW of Ternate, Indonesia; 22.0 km ;7.5
+2007-01-13 04:23:21 (UTC);east of the Kuril Islands; 10.0 km ;8.1
+2006-12-26 12:26:21 (UTC);30 km SW of Hengchun, Taiwan; 10.0 km ;7.1
+2006-11-15 11:14:13 (UTC);Kuril Islands; 10.0 km ;8.3
+2006-08-20 03:41:48 (UTC);Scotia Sea; 13.0 km ;7.0
+2006-07-17 08:19:26 (UTC);226 km SSW of Singaparna, Indonesia; 20.0 km ;7.7
+2006-05-16 10:39:23 (UTC);Kermadec Islands region; 152.0 km ;7.4
+2006-05-03 15:26:40 (UTC);47 km SSE of Pangai, Tonga; 55.0 km ;8.0
+2006-04-20 23:25:02 (UTC);80 km NE of Tilichiki, Russia; 22.0 km ;7.6
+2006-02-22 22:19:07 (UTC);160 km SE of Chipinge, Zimbabwe; 11.0 km ;7.0
+2006-01-27 16:58:53 (UTC);196 km S of Ambon, Indonesia; 397.0 km ;7.6
+2006-01-02 22:13:40 (UTC);Fiji region; 582.9 km ;7.2
+2006-01-02 06:10:49 (UTC);east of the South Sandwich Islands; 13.0 km ;7.4
+2005-11-14 21:38:51 (UTC);293 km ESE of Kamaishi, Japan; 11.0 km ;7.0
+2005-10-08 03:50:40 (UTC);21 km NNE of Muzaffar?b?d, Pakistan; 26.0 km ;7.6
+2005-09-26 01:55:37 (UTC);39 km NW of Yurimaguas, Peru; 115.0 km ;7.5
+2005-09-09 07:26:43 (UTC);135 km E of Kokopo, Papua New Guinea; 90.0 km ;7.6
+2005-08-16 02:46:28 (UTC);66 km ESE of Ishinomaki, Japan; 36.0 km ;7.2
+2005-07-24 15:42:06 (UTC);Nicobar Islands, India region; 16.0 km ;7.2
+2005-06-15 02:50:54 (UTC);153 km W of Big Lagoon, California; 16.0 km ;7.2
+2005-06-13 22:44:33 (UTC);102 km ENE of Iquique, Chile; 115.6 km ;7.8
+2005-03-28 16:09:36 (UTC);78 km WSW of Singkil, Indonesia; 30.0 km ;8.6
+2005-03-02 10:42:12 (UTC);Banda Sea; 201.7 km ;7.1
+2005-02-05 12:23:18 (UTC);138 km SW of Palimbang, Philippines; 525.0 km ;7.1
+2004-12-26 04:21:29 (UTC);284 km WNW of Sabang, Indonesia; 39.2 km ;7.2
+2004-12-26 00:58:53 (UTC);2004 Sumatra - Andaman Islands Earthquake; 30.0 km ;9.1
+2004-12-23 14:59:04 (UTC);north of Macquarie Island; 10.0 km ;8.1
+2004-11-28 18:32:14 (UTC);51 km SW of Nemuro, Japan; 39.0 km ;7.0
+2004-11-26 02:25:03 (UTC);29 km SSW of Nabire, Indonesia; 10.0 km ;7.1
+2004-11-22 20:26:23 (UTC);255 km W of Riverton, New Zealand; 10.0 km ;7.1
+2004-11-15 09:06:56 (UTC);32 km SSW of Pizarro, Colombia; 15.0 km ;7.2
+2004-11-11 21:26:41 (UTC);63 km NW of Maubara, Timor Leste; 10.0 km ;7.5
+2004-10-09 21:26:53 (UTC);43 km SSW of Masachapa, Nicaragua; 35.0 km ;7.0
+2004-09-05 14:57:18 (UTC);118 km ESE of Shing?, Japan; 10.0 km ;7.4
+2004-09-05 10:07:07 (UTC);94 km SE of Shing?, Japan; 14.0 km ;7.2
+2004-07-25 14:35:19 (UTC);100 km SSE of Jambi City, Indonesia; 582.1 km ;7.3
+2004-07-15 04:27:14 (UTC);208 km ENE of Levuka, Fiji; 565.5 km ;7.1
+2004-02-07 02:42:35 (UTC);Near the south coast of Papua, Indonesia; 10.0 km ;7.3
+2004-02-05 21:05:02 (UTC);28 km S of Nabire, Indonesia; 16.6 km ;7.0
+2004-01-03 16:23:21 (UTC);202 km ESE of Tadine, New Caledonia; 22.0 km ;7.1
+2022-03-31 05:44:01 (UTC);279 km ESE of Tadine, New Caledonia; 10.0 km ;7.0
+2022-03-16 14:36:33 (UTC);57 km ENE of Namie, Japan; 63.1 km ;7.3
+2021-12-29 18:25:51 (UTC);125 km NNE of Lospalos, Timor Leste; 165.5 km ;7.3
+2021-12-14 03:20:23 (UTC);Flores Sea; 14.3 km ;7.3
+2021-11-28 10:52:14 (UTC);43 km NNW of Barranca, Peru; 126.0 km ;7.5
+2021-10-02 06:29:17 (UTC);Vanuatu region; 527.0 km ;7.3
+2021-09-08 01:47:47 (UTC);Acapulco, Mexico; 20.0 km ;7.0
+2021-08-22 21:33:18 (UTC);South Sandwich Islands region; 6.0 km ;7.1
+2021-08-14 12:29:08 (UTC);Nippes, Haiti; 10.0 km ;7.2
+2021-08-12 18:35:17 (UTC);South Sandwich Islands region; 22.8 km ;8.1
+2021-08-12 18:32:52 (UTC);South Sandwich Islands region; 47.2 km ;7.5
+2021-08-11 17:46:13 (UTC);60 km ENE of Pondaguitan, Philippines; 55.1 km ;7.1
+2021-07-29 06:15:49 (UTC);99 km SE of Perryville, Alaska; 35.0 km ;8.2
+2021-05-21 18:04:13 (UTC);Southern Qinghai, China; 10.0 km ;7.3
+2021-03-20 09:09:43 (UTC);30 km E of Ishinomaki, Japan; 43.0 km ;7.0
+2021-03-04 19:28:33 (UTC);Kermadec Islands, New Zealand; 28.9 km ;8.1
+2021-03-04 17:41:23 (UTC);Kermadec Islands, New Zealand; 43.0 km ;7.4
+2021-03-04 13:27:34 (UTC);182 km NE of Gisborne, New Zealand; 10.0 km ;7.3
+2021-02-13 14:07:49 (UTC);73 km ENE of Namie, Japan; 44.0 km ;7.1
+2021-02-10 13:19:55 (UTC);southeast of the Loyalty Islands; 10.0 km ;7.7
+2021-01-21 12:23:04 (UTC);211 km SE of Pondaguitan, Philippines; 80.0 km ;7.0
+2020-10-30 11:51:27 (UTC);13 km NNE of Néon Karlovásion, Greece; 21.0 km ;7.0
+2020-10-19 20:54:38 (UTC);99 km SE of Sand Point, Alaska; 28.4 km ;7.6
+2020-07-22 06:12:44 (UTC);99 km SSE of Perryville, Alaska; 28.0 km ;7.8
+2020-07-17 02:50:22 (UTC);114 km NNW of Popondetta, Papua New Guinea; 73.0 km ;7.0
+2020-06-23 15:29:04 (UTC);9 km SE of Santa María Xadani, Mexico; 20.0 km ;7.4
+2020-06-18 12:49:53 (UTC);south of the Kermadec Islands; 10.0 km ;7.4
+2020-03-25 02:49:21 (UTC);221 km SSE of Severo-Kuril’sk, Russia; 57.8 km ;7.5
+2020-02-13 10:33:44 (UTC);95 km ENE of Kuril’sk, Russia; 143.0 km ;7.0
+2020-01-28 19:10:24 (UTC);123 km NNW of Lucea, Jamaica; 14.9 km ;7.7
+2019-11-14 16:17:40 (UTC);141 km NW of Ternate, Indonesia; 33.0 km ;7.1
+2019-07-14 09:10:51 (UTC);155 km SSE of Sofifi, Indonesia; 19.0 km ;7.2
+2019-07-06 03:19:53 (UTC);2019 Ridgecrest Earthquake Sequence; 8.0 km ;7.1
+2019-06-24 02:53:39 (UTC);Banda Sea; 212.0 km ;7.3
+2019-06-15 22:55:04 (UTC);Kermadec Islands, New Zealand; 46.0 km ;7.3
+2019-05-26 07:41:15 (UTC);78 km NE of Navarro, Peru; 122.6 km ;8.0
+2019-05-14 12:58:25 (UTC);48 km NE of Kokopo, Papua New Guinea; 10.0 km ;7.6
+2019-05-06 21:19:37 (UTC);32 km NW of Bulolo, Papua New Guinea; 146.0 km ;7.1
+2019-03-01 08:50:42 (UTC);22 km NNE of Azángaro, Peru; 267.0 km ;7.0
+2019-02-22 10:17:23 (UTC);115 km ESE of Palora, Ecuador; 145.0 km ;7.5
+2018-12-29 03:39:09 (UTC);96 km ESE of Pondaguitan, Philippines; 60.2 km ;7.0
+2018-12-20 17:01:55 (UTC);187 km SE of Ust’-Kamchatsk Staryy, Russia; 16.6 km ;7.3
+2018-12-11 02:26:29 (UTC);South Sandwich Islands region; 133.0 km ;7.1
+2018-12-05 04:18:08 (UTC);166 km ESE of Tadine, New Caledonia; 10.0 km ;7.5
+2018-11-30 17:29:29 (UTC);1 km SE of Point MacKenzie, Alaska; 46.7 km ;7.1
+2018-10-10 20:48:20 (UTC);119 km E of Kimbe, Papua New Guinea; 39.0 km ;7.0
+2018-09-28 10:02:45 (UTC);72 km N of Palu, Indonesia; 20.0 km ;7.5
+2018-09-06 15:49:18 (UTC);45 km S of Levuka, Fiji; 670.8 km ;7.9
+2018-08-29 03:51:56 (UTC);238 km ESE of Tadine, New Caledonia; 21.4 km ;7.1
+2018-08-24 09:04:08 (UTC);136 km W of Iñapari, Peru; 630.0 km ;7.1
+2018-08-21 21:31:47 (UTC);40 km ENE of Carúpano, Venezuela; 146.8 km ;7.3
+2018-08-19 00:19:40 (UTC);267 km E of Levuka, Fiji; 600.0 km ;8.2
+2018-02-25 17:44:44 (UTC);32 km SW of Tari, Papua New Guinea; 25.2 km ;7.5
+2018-02-16 23:39:39 (UTC);4 km S of Pinotepa de Don Luis, Mexico; 22.0 km ;7.2
+2022-03-31 05:44:01 (UTC);279 km ESE of Tadine, New Caledonia; 10.0 km ;7.0
+2022-03-16 14:36:33 (UTC);57 km ENE of Namie, Japan; 63.1 km ;7.3
+2021-12-29 18:25:51 (UTC);125 km NNE of Lospalos, Timor Leste; 165.5 km ;7.3
+2021-12-14 03:20:23 (UTC);Flores Sea; 14.3 km ;7.3
+2021-11-28 10:52:14 (UTC);43 km NNW of Barranca, Peru; 126.0 km ;7.5
+2021-10-02 06:29:17 (UTC);Vanuatu region; 527.0 km ;7.3
+2021-09-08 01:47:47 (UTC);Acapulco, Mexico; 20.0 km ;7.0
+2021-08-22 21:33:18 (UTC);South Sandwich Islands region; 6.0 km ;7.1
+2021-08-14 12:29:08 (UTC);Nippes, Haiti; 10.0 km ;7.2
+2021-08-12 18:35:17 (UTC);South Sandwich Islands region; 22.8 km ;8.1
+2021-08-12 18:32:52 (UTC);South Sandwich Islands region; 47.2 km ;7.5
+2021-08-11 17:46:13 (UTC);60 km ENE of Pondaguitan, Philippines; 55.1 km ;7.1
+2021-07-29 06:15:49 (UTC);99 km SE of Perryville, Alaska; 35.0 km ;8.2
+2021-05-21 18:04:13 (UTC);Southern Qinghai, China; 10.0 km ;7.3
+2021-03-20 09:09:43 (UTC);30 km E of Ishinomaki, Japan; 43.0 km ;7.0
+2021-03-04 19:28:33 (UTC);Kermadec Islands, New Zealand; 28.9 km ;8.1
+2021-03-04 17:41:23 (UTC);Kermadec Islands, New Zealand; 43.0 km ;7.4
+2021-03-04 13:27:34 (UTC);182 km NE of Gisborne, New Zealand; 10.0 km ;7.3
+2021-02-13 14:07:49 (UTC);73 km ENE of Namie, Japan; 44.0 km ;7.1
+2021-02-10 13:19:55 (UTC);southeast of the Loyalty Islands; 10.0 km ;7.7
+2021-01-21 12:23:04 (UTC);211 km SE of Pondaguitan, Philippines; 80.0 km ;7.0
+2020-10-30 11:51:27 (UTC);13 km NNE of Néon Karlovásion, Greece; 21.0 km ;7.0
+2020-10-19 20:54:38 (UTC);99 km SE of Sand Point, Alaska; 28.4 km ;7.6
+2020-07-22 06:12:44 (UTC);99 km SSE of Perryville, Alaska; 28.0 km ;7.8
+2020-07-17 02:50:22 (UTC);114 km NNW of Popondetta, Papua New Guinea; 73.0 km ;7.0
+2020-06-23 15:29:04 (UTC);9 km SE of Santa María Xadani, Mexico; 20.0 km ;7.4
+2020-06-18 12:49:53 (UTC);south of the Kermadec Islands; 10.0 km ;7.4
+2020-03-25 02:49:21 (UTC);221 km SSE of Severo-Kuril’sk, Russia; 57.8 km ;7.5
+2020-02-13 10:33:44 (UTC);95 km ENE of Kuril’sk, Russia; 143.0 km ;7.0
+2020-01-28 19:10:24 (UTC);123 km NNW of Lucea, Jamaica; 14.9 km ;7.7
+2019-11-14 16:17:40 (UTC);141 km NW of Ternate, Indonesia; 33.0 km ;7.1
+2019-07-14 09:10:51 (UTC);155 km SSE of Sofifi, Indonesia; 19.0 km ;7.2
+2019-07-06 03:19:53 (UTC);2019 Ridgecrest Earthquake Sequence; 8.0 km ;7.1
+2019-06-24 02:53:39 (UTC);Banda Sea; 212.0 km ;7.3
+2019-06-15 22:55:04 (UTC);Kermadec Islands, New Zealand; 46.0 km ;7.3
+2019-05-26 07:41:15 (UTC);78 km NE of Navarro, Peru; 122.6 km ;8.0
+2019-05-14 12:58:25 (UTC);48 km NE of Kokopo, Papua New Guinea; 10.0 km ;7.6
+2019-05-06 21:19:37 (UTC);32 km NW of Bulolo, Papua New Guinea; 146.0 km ;7.1
+2019-03-01 08:50:42 (UTC);22 km NNE of Azángaro, Peru; 267.0 km ;7.0
+2019-02-22 10:17:23 (UTC);115 km ESE of Palora, Ecuador; 145.0 km ;7.5
+2018-12-29 03:39:09 (UTC);96 km ESE of Pondaguitan, Philippines; 60.2 km ;7.0
+2018-12-20 17:01:55 (UTC);187 km SE of Ust’-Kamchatsk Staryy, Russia; 16.6 km ;7.3
+2018-12-11 02:26:29 (UTC);South Sandwich Islands region; 133.0 km ;7.1
+2018-12-05 04:18:08 (UTC);166 km ESE of Tadine, New Caledonia; 10.0 km ;7.5
+2018-11-30 17:29:29 (UTC);1 km SE of Point MacKenzie, Alaska; 46.7 km ;7.1
+2018-10-10 20:48:20 (UTC);119 km E of Kimbe, Papua New Guinea; 39.0 km ;7.0
+2018-09-28 10:02:45 (UTC);72 km N of Palu, Indonesia; 20.0 km ;7.5
+2018-09-06 15:49:18 (UTC);45 km S of Levuka, Fiji; 670.8 km ;7.9
+2018-08-29 03:51:56 (UTC);238 km ESE of Tadine, New Caledonia; 21.4 km ;7.1
+2018-08-24 09:04:08 (UTC);136 km W of Iñapari, Peru; 630.0 km ;7.1
+2018-08-21 21:31:47 (UTC);40 km ENE of Carúpano, Venezuela; 146.8 km ;7.3
+2018-08-19 00:19:40 (UTC);267 km E of Levuka, Fiji; 600.0 km ;8.2
+2018-02-25 17:44:44 (UTC);32 km SW of Tari, Papua New Guinea; 25.2 km ;7.5
+2018-02-16 23:39:39 (UTC);4 km S of Pinotepa de Don Luis, Mexico; 22.0 km ;7.2
+2000-11-17 21:01:56 (UTC);138 km SSW of Kokopo, Papua New Guinea; 33.0 km ;7.8
+2000-11-16 07:42:16 (UTC);135 km SE of Kokopo, Papua New Guinea; 30.0 km ;7.8
+2000-11-16 04:54:56 (UTC);24 km N of Rabaul, Papua New Guinea; 33.0 km ;8.0
+2000-10-29 08:37:08 (UTC);191 km ESE of Kokopo, Papua New Guinea; 50.0 km ;7.0
+2000-10-04 16:58:44 (UTC);29 km WNW of Luganville, Vanuatu; 23.0 km ;7.0
+2000-08-06 07:27:12 (UTC);Bonin Islands, Japan region; 394.8 km ;7.4
+2000-06-18 14:44:13 (UTC);South Indian Ocean; 10.0 km ;7.9
+2000-06-04 16:28:26 (UTC);103 km S of Bengkulu, Indonesia; 33.0 km ;7.9
+2000-05-12 18:43:18 (UTC);75 km N of San Antonio de los Cobres, Argentina; 225.0 km ;7.2
+2000-05-04 04:21:16 (UTC);89 km E of Luwuk, Indonesia; 26.0 km ;7.6
+2000-04-23 09:27:23 (UTC);22 km NW of Añatuya, Argentina; 608.5 km ;7.0
+2000-03-28 11:00:22 (UTC);Volcano Islands, Japan region; 126.5 km ;7.6
+2000-02-25 01:43:58 (UTC);Vanuatu region; 33.0 km ;7.1
+2000-01-08 16:47:20 (UTC);117 km SSW of Hihifo, Tonga; 183.4 km ;7.2
+1999-12-11 18:03:36 (UTC);14 km WNW of Bolitoc, Philippines; 33.0 km ;7.3
+1999-12-06 23:12:33 (UTC);26 km SSE of Karluk, Alaska; 43.6 km ;7.0
+1999-11-26 13:21:15 (UTC);92 km ESE of Lakatoro, Vanuatu; 33.0 km ;7.5
+1999-11-19 13:56:46 (UTC);88 km W of Kandrian, Papua New Guinea; 33.0 km ;7.0
+1999-11-15 05:42:43 (UTC);South Indian Ocean; 10.0 km ;7.0
+1999-11-12 16:57:19 (UTC);8 km S of Düzce, Turkey; 10.0 km ;7.2
+1999-10-16 09:46:44 (UTC);Hector Mine, CA Earthquake; 13.7 km ;7.1
+1999-09-30 16:31:15 (UTC);15 km W of San Baltazar Loxicha, Mexico; 60.6 km ;7.5
+1999-09-20 17:47:18 (UTC);21 km S of Puli, Taiwan; 33.0 km ;7.7
+1999-08-17 00:01:39 (UTC);4 km ESE of Derince, Turkey; 17.0 km ;7.6
+1999-06-15 20:42:05 (UTC);1 km SE of Texcala, Mexico; 70.0 km ;7.0
+1999-05-16 00:51:20 (UTC);51 km SSE of Kokopo, Papua New Guinea; 73.7 km ;7.1
+1999-05-10 20:33:02 (UTC);92 km ENE of Kimbe, Papua New Guinea; 138.0 km ;7.1
+1999-04-08 13:10:34 (UTC);57 km ENE of Wangqing, China; 565.7 km ;7.1
+1999-04-05 11:08:04 (UTC);63 km W of Kimbe, Papua New Guinea; 150.0 km ;7.4
+1999-03-04 08:52:01 (UTC);69 km S of Tabiauan, Philippines; 33.0 km ;7.1
+1999-02-06 21:47:59 (UTC);146 km NW of Sola, Vanuatu; 90.1 km ;7.3
+1999-01-19 03:35:33 (UTC);110 km ESE of Kokopo, Papua New Guinea; 114.1 km ;7.0
+1998-11-29 14:10:31 (UTC);264 km ESE of Luwuk, Indonesia; 33.0 km ;7.7
+1998-11-09 05:38:44 (UTC);278 km NE of Lospalos, Timor Leste; 33.0 km ;7.0
+1998-08-20 06:40:55 (UTC);Bonin Islands, Japan region; 440.5 km ;7.1
+1998-08-04 18:59:20 (UTC);3 km E of Bahía de Caráquez, Ecuador; 33.0 km ;7.2
+1998-07-17 08:49:13 (UTC);50 km WNW of Aitape, Papua New Guinea; 10.0 km ;7.0
+1998-07-16 11:56:36 (UTC);52 km SE of Lata, Solomon Islands; 110.2 km ;7.0
+1998-05-03 23:30:21 (UTC);254 km SSE of Ishigaki, Japan; 33.0 km ;7.5
+1998-04-01 17:56:23 (UTC);95 km W of Pariaman, Indonesia; 55.7 km ;7.0
+1998-03-29 19:48:16 (UTC);178 km ENE of Levuka, Fiji; 537.2 km ;7.2
+1998-03-25 03:12:25 (UTC);Balleny Islands region; 10.0 km ;8.1
+1998-01-30 12:16:08 (UTC);34 km SSE of Antofagasta, Chile; 42.0 km ;7.1
+1998-01-04 06:11:58 (UTC);southeast of the Loyalty Islands; 100.6 km ;7.5
+1997-12-22 02:05:50 (UTC);117 km N of Finschhafen, Papua New Guinea; 179.3 km ;7.2
+1997-12-05 11:26:54 (UTC);156 km S of Ust’-Kamchatsk Staryy, Russia; 33.0 km ;7.8
+1997-11-25 12:14:33 (UTC);97 km NW of Gorontalo, Indonesia; 24.0 km ;7.0
+1997-11-15 18:59:24 (UTC);34 km ESE of Port-Olry, Vanuatu; 123.1 km ;7.0
+1997-11-08 10:02:52 (UTC);western Xizang; 33.0 km ;7.5
+1997-10-28 06:15:17 (UTC);51 km N of Barranca, Peru; 112.0 km ;7.2
+1997-10-15 01:03:33 (UTC);36 km SW of Monte Patria, Chile; 58.0 km ;7.1
+1997-10-14 09:53:18 (UTC);192 km WSW of Haveluloto, Tonga; 167.3 km ;7.8
+1997-09-20 16:11:32 (UTC);Kermadec Islands region; 30.0 km ;7.0
+1997-07-09 19:24:13 (UTC);26 km WSW of Carúpano, Venezuela; 19.9 km ;7.0
+1997-05-25 23:22:33 (UTC);south of the Kermadec Islands; 332.7 km ;7.1
+1997-05-10 07:57:29 (UTC);58 km E of Q?’en, Iran; 10.0 km ;7.3
+1997-04-21 12:02:26 (UTC);171 km NNW of Sola, Vanuatu; 33.0 km ;7.7
+1997-02-27 21:08:02 (UTC);29 km ESE of Harnai, Pakistan; 33.0 km ;7.1
+1997-01-23 02:15:22 (UTC);16 km NW of Villazón, Bolivia; 276.2 km ;7.1
+1997-01-11 20:28:26 (UTC);46 km WNW of El Habillal, Mexico; 33.0 km ;7.2
+1996-11-12 16:59:44 (UTC);60 km SW of Changuillo, Peru; 33.0 km ;7.7
+1996-08-05 22:38:22 (UTC);Fiji region; 550.2 km ;7.4
+1996-07-22 14:19:35 (UTC);220 km NNE of Palu, Indonesia; 33.0 km ;7.0
+1996-06-17 11:22:18 (UTC);169 km NNE of Maumere, Indonesia; 587.3 km ;7.9
+1996-06-11 18:22:55 (UTC);8 km NNE of Palapag, Philippines; 33.0 km ;7.1
+1996-06-10 15:24:56 (UTC);46 km SSW of Adak, Alaska; 26.3 km ;7.3
+1996-06-10 04:03:35 (UTC);77 km WSW of Adak, Alaska; 33.0 km ;7.9
+1996-06-02 02:52:09 (UTC);northern Mid-Atlantic Ridge; 10.0 km ;7.0
+1996-04-29 14:40:41 (UTC);58 km WSW of Panguna, Papua New Guinea; 44.0 km ;7.2
+1996-04-16 00:30:54 (UTC);south of the Fiji Islands; 110.9 km ;7.2
+1996-02-25 03:08:15 (UTC);24 km SSW of Santa María Chico Ometepec, Mexico; 21.1 km ;7.1
+1996-02-21 12:51:01 (UTC);123 km WSW of Puerto Santa, Peru; 10.0 km ;7.5
+1996-02-17 05:59:30 (UTC);101 km ENE of Biak, Indonesia; 33.0 km ;8.1
+1996-02-07 21:36:46 (UTC);158 km E of Kuril’sk, Russia; 42.6 km ;7.2
+1996-01-01 08:05:10 (UTC);181 km N of Palu, Indonesia; 24.0 km ;7.9
+1995-12-25 04:43:24 (UTC);297 km NE of Lospalos, Timor Leste; 141.9 km ;7.1
+1998-04-01 17:56:23 (UTC);95 km W of Pariaman, Indonesia; 55.7 km ;7.0
+1998-03-29 19:48:16 (UTC);178 km ENE of Levuka, Fiji; 537.2 km ;7.2
+1998-03-25 03:12:25 (UTC);Balleny Islands region; 10.0 km ;8.1
+1998-01-30 12:16:08 (UTC);34 km SSE of Antofagasta, Chile; 42.0 km ;7.1
+1998-01-04 06:11:58 (UTC);southeast of the Loyalty Islands; 100.6 km ;7.5
+1997-12-22 02:05:50 (UTC);117 km N of Finschhafen, Papua New Guinea; 179.3 km ;7.2
+1997-12-05 11:26:54 (UTC);156 km S of Ust’-Kamchatsk Staryy, Russia; 33.0 km ;7.8
+1997-11-25 12:14:33 (UTC);97 km NW of Gorontalo, Indonesia; 24.0 km ;7.0
+1997-11-15 18:59:24 (UTC);34 km ESE of Port-Olry, Vanuatu; 123.1 km ;7.0
+1997-11-08 10:02:52 (UTC);western Xizang; 33.0 km ;7.5
+1997-10-28 06:15:17 (UTC);51 km N of Barranca, Peru; 112.0 km ;7.2
+1997-10-15 01:03:33 (UTC);36 km SW of Monte Patria, Chile; 58.0 km ;7.1
+1997-10-14 09:53:18 (UTC);192 km WSW of Haveluloto, Tonga; 167.3 km ;7.8
+1997-09-20 16:11:32 (UTC);Kermadec Islands region; 30.0 km ;7.0
+1997-07-09 19:24:13 (UTC);26 km WSW of Carúpano, Venezuela; 19.9 km ;7.0
+1997-05-25 23:22:33 (UTC);south of the Kermadec Islands; 332.7 km ;7.1
+1997-05-10 07:57:29 (UTC);58 km E of Q?’en, Iran; 10.0 km ;7.3
+1997-04-21 12:02:26 (UTC);171 km NNW of Sola, Vanuatu; 33.0 km ;7.7
+1997-02-27 21:08:02 (UTC);29 km ESE of Harnai, Pakistan; 33.0 km ;7.1
+1997-01-23 02:15:22 (UTC);16 km NW of Villazón, Bolivia; 276.2 km ;7.1
+1997-01-11 20:28:26 (UTC);46 km WNW of El Habillal, Mexico; 33.0 km ;7.2
+1996-11-12 16:59:44 (UTC);60 km SW of Changuillo, Peru; 33.0 km ;7.7
+1996-08-05 22:38:22 (UTC);Fiji region; 550.2 km ;7.4
+1996-07-22 14:19:35 (UTC);220 km NNE of Palu, Indonesia; 33.0 km ;7.0
+1996-06-17 11:22:18 (UTC);169 km NNE of Maumere, Indonesia; 587.3 km ;7.9
+1996-06-11 18:22:55 (UTC);8 km NNE of Palapag, Philippines; 33.0 km ;7.1
+1996-06-10 15:24:56 (UTC);46 km SSW of Adak, Alaska; 26.3 km ;7.3
+1996-06-10 04:03:35 (UTC);77 km WSW of Adak, Alaska; 33.0 km ;7.9
+1996-06-02 02:52:09 (UTC);northern Mid-Atlantic Ridge; 10.0 km ;7.0
+1996-04-29 14:40:41 (UTC);58 km WSW of Panguna, Papua New Guinea; 44.0 km ;7.2
+1996-04-16 00:30:54 (UTC);south of the Fiji Islands; 110.9 km ;7.2
+1996-02-25 03:08:15 (UTC);24 km SSW of Santa María Chico Ometepec, Mexico; 21.1 km ;7.1
+1996-02-21 12:51:01 (UTC);123 km WSW of Puerto Santa, Peru; 10.0 km ;7.5
+1996-02-17 05:59:30 (UTC);101 km ENE of Biak, Indonesia; 33.0 km ;8.1
+1996-02-07 21:36:46 (UTC);158 km E of Kuril’sk, Russia; 42.6 km ;7.2
+1996-01-01 08:05:10 (UTC);181 km N of Palu, Indonesia; 24.0 km ;7.9
+1995-12-25 04:43:24 (UTC);297 km NE of Lospalos, Timor Leste; 141.9 km ;7.1
+1995-12-03 18:01:08 (UTC);128 km ESE of Kuril’sk, Russia; 33.0 km ;7.9
+1995-11-22 04:15:11 (UTC);27 km SSE of Nuwaybi‘a, Egypt; 10.0 km ;7.2
+1995-10-21 02:38:57 (UTC);13 km NW of Ocozocoautla de Espinosa, Mexico; 159.3 km ;7.2
+1995-10-18 10:37:26 (UTC);83 km SE of Naze, Japan; 28.4 km ;7.1
+1995-10-09 15:35:53 (UTC);5 km E of El Colomo, Mexico; 33.0 km ;8.0
+1995-10-03 01:51:23 (UTC);45 km SE of Sucúa, Ecuador; 24.4 km ;7.0
+1995-09-14 14:04:31 (UTC);5 km N of Azoyú, Mexico; 23.0 km ;7.4
+1995-08-23 07:06:02 (UTC);Pagan region, Northern Mariana Islands; 594.9 km ;7.1
+1995-08-16 23:10:23 (UTC);139 km WNW of Panguna, Papua New Guinea; 33.0 km ;7.2
+1995-08-16 10:27:28 (UTC);155 km WNW of Panguna, Papua New Guinea; 30.1 km ;7.7
+1995-07-30 05:11:23 (UTC);36 km NNE of Antofagasta, Chile; 45.6 km ;8.0
+1995-07-03 19:50:50 (UTC);Kermadec Islands, New Zealand; 35.3 km ;7.2
+1995-05-27 13:03:52 (UTC);85 km S of Tungor, Russia; 11.0 km ;7.1
+1995-05-16 20:12:44 (UTC);249 km E of Vao, New Caledonia; 20.2 km ;7.7
+1995-05-05 03:53:45 (UTC);14 km NE of Cabatuan, Philippines; 16.0 km ;7.1
+1995-04-21 00:34:46 (UTC);10 km E of Dapdap, Philippines; 20.7 km ;7.2
+1995-04-07 22:06:56 (UTC);88 km NNE of Hihifo, Tonga; 21.2 km ;7.4
+1995-02-05 22:51:05 (UTC);118 km NNE of Gisborne, New Zealand; 21.1 km ;7.1
+1995-01-06 22:37:34 (UTC);63 km ESE of Hachinohe, Japan; 26.9 km ;7.0
+1994-12-28 12:19:23 (UTC);off the east coast of Honshu, Japan; 26.5 km ;7.8
+1994-11-14 19:15:30 (UTC);10 km E of Sabang, Philippines; 31.5 km ;7.1
+1994-10-09 07:55:39 (UTC);96 km E of Shikotan, Russia; 33.0 km ;7.3
+1994-10-04 13:22:55 (UTC);48 km E of Shikotan, Russia; 14.0 km ;8.3
+1994-09-01 15:15:53 (UTC);121 km W of Ferndale, California; 10.0 km ;7.1
+1994-07-21 18:36:31 (UTC);46 km SSW of Vrangel’, Russia; 471.4 km ;7.3
+1994-07-13 02:35:56 (UTC);58 km S of Lakatoro, Vanuatu; 33.0 km ;7.2
+1994-06-09 00:33:16 (UTC);55 km NNW of Reyes, Bolivia; 631.3 km ;8.2
+1994-06-02 18:17:34 (UTC);249 km SSW of Kencong, Indonesia; 18.4 km ;7.8
+1994-03-14 04:30:15 (UTC);central Mid-Atlantic Ridge; 10.0 km ;7.0
+1994-03-09 23:28:06 (UTC);240 km E of Levuka, Fiji; 562.5 km ;7.6
+1994-02-12 17:58:23 (UTC);112 km S of Isangel, Vanuatu; 27.7 km ;7.0
+1994-01-21 02:24:29 (UTC);36 km NNE of Sofifi, Indonesia; 19.9 km ;7.0
+1993-12-29 07:48:14 (UTC);92 km SE of Isangel, Vanuatu; 33.0 km ;7.0
+1993-11-13 01:18:04 (UTC);112 km S of Vilyuchinsk, Russia; 34.0 km ;7.0
+1993-09-10 19:12:54 (UTC);24 km W of Puerto Madero, Mexico; 34.1 km ;7.2
+1993-08-10 00:51:53 (UTC);63 km WNW of Te Anau, New Zealand; 28.1 km ;7.0
+1993-08-09 12:42:48 (UTC);53 km S of Jurm, Afghanistan; 214.5 km ;7.0
+1993-08-08 08:34:24 (UTC);32 km S of Inarajan Village, Guam; 59.3 km ;7.8
+1995-10-18 10:37:26 (UTC);83 km SE of Naze, Japan; 28.4 km ;7.1
+1995-10-09 15:35:53 (UTC);5 km E of El Colomo, Mexico; 33.0 km ;8.0
+1995-10-03 01:51:23 (UTC);45 km SE of Sucúa, Ecuador; 24.4 km ;7.0
+1995-09-14 14:04:31 (UTC);5 km N of Azoyú, Mexico; 23.0 km ;7.4
+1995-08-23 07:06:02 (UTC);Pagan region, Northern Mariana Islands; 594.9 km ;7.1
+1995-08-16 23:10:23 (UTC);139 km WNW of Panguna, Papua New Guinea; 33.0 km ;7.2
+1995-08-16 10:27:28 (UTC);155 km WNW of Panguna, Papua New Guinea; 30.1 km ;7.7
+1995-07-30 05:11:23 (UTC);36 km NNE of Antofagasta, Chile; 45.6 km ;8.0
+1995-07-03 19:50:50 (UTC);Kermadec Islands, New Zealand; 35.3 km ;7.2
+1995-05-27 13:03:52 (UTC);85 km S of Tungor, Russia; 11.0 km ;7.1
+1995-05-16 20:12:44 (UTC);249 km E of Vao, New Caledonia; 20.2 km ;7.7
+1995-05-05 03:53:45 (UTC);14 km NE of Cabatuan, Philippines; 16.0 km ;7.1
+1995-04-21 00:34:46 (UTC);10 km E of Dapdap, Philippines; 20.7 km ;7.2
+1995-04-07 22:06:56 (UTC);88 km NNE of Hihifo, Tonga; 21.2 km ;7.4
+1995-02-05 22:51:05 (UTC);118 km NNE of Gisborne, New Zealand; 21.1 km ;7.1
+1995-01-06 22:37:34 (UTC);63 km ESE of Hachinohe, Japan; 26.9 km ;7.0
+1994-12-28 12:19:23 (UTC);off the east coast of Honshu, Japan; 26.5 km ;7.8
+1994-11-14 19:15:30 (UTC);10 km E of Sabang, Philippines; 31.5 km ;7.1
+1994-10-09 07:55:39 (UTC);96 km E of Shikotan, Russia; 33.0 km ;7.3
+1994-10-04 13:22:55 (UTC);48 km E of Shikotan, Russia; 14.0 km ;8.3
+1994-09-01 15:15:53 (UTC);121 km W of Ferndale, California; 10.0 km ;7.1
+1994-07-21 18:36:31 (UTC);46 km SSW of Vrangel’, Russia; 471.4 km ;7.3
+1994-07-13 02:35:56 (UTC);58 km S of Lakatoro, Vanuatu; 33.0 km ;7.2
+1994-06-09 00:33:16 (UTC);55 km NNW of Reyes, Bolivia; 631.3 km ;8.2
+1994-06-02 18:17:34 (UTC);249 km SSW of Kencong, Indonesia; 18.4 km ;7.8
+1994-03-14 04:30:15 (UTC);central Mid-Atlantic Ridge; 10.0 km ;7.0
+1994-03-09 23:28:06 (UTC);240 km E of Levuka, Fiji; 562.5 km ;7.6
+1994-02-12 17:58:23 (UTC);112 km S of Isangel, Vanuatu; 27.7 km ;7.0
+1994-01-21 02:24:29 (UTC);36 km NNE of Sofifi, Indonesia; 19.9 km ;7.0
+1993-12-29 07:48:14 (UTC);92 km SE of Isangel, Vanuatu; 33.0 km ;7.0
+1993-11-13 01:18:04 (UTC);112 km S of Vilyuchinsk, Russia; 34.0 km ;7.0
+1993-09-10 19:12:54 (UTC);24 km W of Puerto Madero, Mexico; 34.1 km ;7.2
+1993-08-10 00:51:53 (UTC);63 km WNW of Te Anau, New Zealand; 28.1 km ;7.0
+1993-08-09 12:42:48 (UTC);53 km S of Jurm, Afghanistan; 214.5 km ;7.0
+1993-08-08 08:34:24 (UTC);32 km S of Inarajan Village, Guam; 59.3 km ;7.8
+1993-07-12 13:17:11 (UTC);107 km W of Iwanai, Japan; 16.7 km ;7.7
+1993-06-08 13:03:36 (UTC);97 km ESE of Ozernovskiy, Russia; 70.6 km ;7.5
+1993-05-24 23:51:28 (UTC);87 km W of Abra Pampa, Argentina; 221.0 km ;7.0
+1993-05-11 18:26:51 (UTC);3 km E of Manay, Philippines; 58.7 km ;7.0
+1993-03-06 03:05:49 (UTC);178 km W of Lata, Solomon Islands; 20.4 km ;7.1
+1993-01-15 11:06:05 (UTC);52 km NE of Otofuke, Japan; 102.2 km ;7.6
+1992-12-20 20:52:47 (UTC);281 km WSW of Tual, Indonesia; 77.7 km ;7.3
+1992-12-12 05:29:26 (UTC);37 km WNW of Maumere, Indonesia; 27.7 km ;7.8
+1992-10-18 15:11:59 (UTC);11 km NNW of Murindó, Colombia; 10.0 km ;7.2
+1992-10-11 19:24:26 (UTC);47 km NW of Isangel, Vanuatu; 129.0 km ;7.4
+1992-09-02 00:16:01 (UTC);83 km SSW of Corinto, Nicaragua; 44.8 km ;7.7
+1992-08-19 02:04:37 (UTC);60 km ENE of Toktogul, Kyrgyzstan; 27.4 km ;7.3
+1992-07-11 10:44:19 (UTC);south of the Fiji Islands; 377.2 km ;7.2
+1992-06-28 11:57:34 (UTC);Landers, California Earthquake; -0.1 km ;7.3
+1992-05-27 05:13:38 (UTC);75 km SW of Lata, Solomon Islands; 18.8 km ;7.0
+1992-05-17 10:15:31 (UTC);23 km ESE of Santiago, Philippines; 33.0 km ;7.3
+1992-05-17 09:49:19 (UTC);9 km SE of Santiago, Philippines; 32.8 km ;7.1
+1992-05-15 07:05:05 (UTC);61 km NNW of Finschhafen, Papua New Guinea; 58.0 km ;7.2
+1992-04-25 18:06:05 (UTC);19 km SSW of Scotia, California; 9.9 km ;7.2
+1991-12-27 04:05:58 (UTC);South Sandwich Islands region; 10.0 km ;7.2
+1991-12-22 08:43:13 (UTC);248 km E of Kuril’sk, Russia; 24.7 km ;7.6
+1991-11-19 22:28:51 (UTC);33 km NNW of Santa Genoveva de Docordó, Colombia; 21.3 km ;7.2
+1991-10-14 15:58:12 (UTC);155 km WNW of Malango, Solomon Islands; 23.4 km ;7.2
+1991-09-30 00:21:46 (UTC);Fiji region; 566.4 km ;7.0
+1991-08-17 22:17:09 (UTC);136 km WSW of Brookings, Oregon; 1.3 km ;7.0
+1991-07-06 12:19:49 (UTC);15 km W of Lares, Peru; 104.5 km ;7.0
+1991-06-23 21:22:28 (UTC);27 km NNW of El Hoyo, Argentina; 558.0 km ;7.3
+1991-06-20 05:18:52 (UTC);79 km NNW of Gorontalo, Indonesia; 31.4 km ;7.5
+1991-06-09 07:45:02 (UTC);144 km NW of Nuku‘alofa, Tonga; 265.5 km ;7.0
+1991-05-30 13:17:41 (UTC);71 km SE of King Cove, Alaska; 28.4 km ;7.0
+1991-05-19 00:58:01 (UTC);69 km N of Gorontalo, Indonesia; 33.0 km ;7.0
+1991-04-29 09:12:48 (UTC);22 km WNW of Java, Georgia; 17.2 km ;7.0
+1991-04-22 21:56:51 (UTC);34 km S of Limón, Costa Rica; 10.0 km ;7.6
+1991-04-05 04:19:49 (UTC);11 km NE of Rioja, Peru; 19.8 km ;7.1
+1991-02-18 02:37:25 (UTC);18 km E of Aras-asan, Philippines; 23.9 km ;7.0
+1991-01-05 14:57:11 (UTC);99 km NW of Mogok, Myanmar; 19.7 km ;7.0
+1990-12-30 19:14:18 (UTC);104 km ENE of Kimbe, Papua New Guinea; 178.6 km ;7.5
+1990-11-06 20:14:29 (UTC);231 km WNW of Attu Station, Alaska; 24.8 km ;7.1
+1990-10-17 14:30:13 (UTC);130 km W of Iñapari, Peru; 598.8 km ;7.0
+1990-08-12 21:25:21 (UTC);19 km NW of Isangel, Vanuatu; 140.4 km ;7.1
+1993-05-11 18:26:51 (UTC);3 km E of Manay, Philippines; 58.7 km ;7.0
+1993-03-06 03:05:49 (UTC);178 km W of Lata, Solomon Islands; 20.4 km ;7.1
+1993-01-15 11:06:05 (UTC);52 km NE of Otofuke, Japan; 102.2 km ;7.6
+1992-12-20 20:52:47 (UTC);281 km WSW of Tual, Indonesia; 77.7 km ;7.3
+1992-12-12 05:29:26 (UTC);37 km WNW of Maumere, Indonesia; 27.7 km ;7.8
+1992-10-18 15:11:59 (UTC);11 km NNW of Murindó, Colombia; 10.0 km ;7.2
+1992-10-11 19:24:26 (UTC);47 km NW of Isangel, Vanuatu; 129.0 km ;7.4
+1992-09-02 00:16:01 (UTC);83 km SSW of Corinto, Nicaragua; 44.8 km ;7.7
+1992-08-19 02:04:37 (UTC);60 km ENE of Toktogul, Kyrgyzstan; 27.4 km ;7.3
+1992-07-11 10:44:19 (UTC);south of the Fiji Islands; 377.2 km ;7.2
+1992-06-28 11:57:34 (UTC);Landers, California Earthquake; -0.1 km ;7.3
+1992-05-27 05:13:38 (UTC);75 km SW of Lata, Solomon Islands; 18.8 km ;7.0
+1992-05-17 10:15:31 (UTC);23 km ESE of Santiago, Philippines; 33.0 km ;7.3
+1992-05-17 09:49:19 (UTC);9 km SE of Santiago, Philippines; 32.8 km ;7.1
+1992-05-15 07:05:05 (UTC);61 km NNW of Finschhafen, Papua New Guinea; 58.0 km ;7.2
+1992-04-25 18:06:05 (UTC);19 km SSW of Scotia, California; 9.9 km ;7.2
+1991-12-27 04:05:58 (UTC);South Sandwich Islands region; 10.0 km ;7.2
+1991-12-22 08:43:13 (UTC);248 km E of Kuril’sk, Russia; 24.7 km ;7.6
+1991-11-19 22:28:51 (UTC);33 km NNW of Santa Genoveva de Docordó, Colombia; 21.3 km ;7.2
+1991-10-14 15:58:12 (UTC);155 km WNW of Malango, Solomon Islands; 23.4 km ;7.2
+1991-09-30 00:21:46 (UTC);Fiji region; 566.4 km ;7.0
+1991-08-17 22:17:09 (UTC);136 km WSW of Brookings, Oregon; 1.3 km ;7.0
+1991-07-06 12:19:49 (UTC);15 km W of Lares, Peru; 104.5 km ;7.0
+1991-06-23 21:22:28 (UTC);27 km NNW of El Hoyo, Argentina; 558.0 km ;7.3
+1991-06-20 05:18:52 (UTC);79 km NNW of Gorontalo, Indonesia; 31.4 km ;7.5
+1991-06-09 07:45:02 (UTC);144 km NW of Nuku‘alofa, Tonga; 265.5 km ;7.0
+1991-05-30 13:17:41 (UTC);71 km SE of King Cove, Alaska; 28.4 km ;7.0
+1991-05-19 00:58:01 (UTC);69 km N of Gorontalo, Indonesia; 33.0 km ;7.0
+1991-04-29 09:12:48 (UTC);22 km WNW of Java, Georgia; 17.2 km ;7.0
+1991-04-22 21:56:51 (UTC);34 km S of Limón, Costa Rica; 10.0 km ;7.6
+1991-04-05 04:19:49 (UTC);11 km NE of Rioja, Peru; 19.8 km ;7.1
+1991-02-18 02:37:25 (UTC);18 km E of Aras-asan, Philippines; 23.9 km ;7.0
+1991-01-05 14:57:11 (UTC);99 km NW of Mogok, Myanmar; 19.7 km ;7.0
+1990-12-30 19:14:18 (UTC);104 km ENE of Kimbe, Papua New Guinea; 178.6 km ;7.5
+1990-11-06 20:14:29 (UTC);231 km WNW of Attu Station, Alaska; 24.8 km ;7.1
+1990-10-17 14:30:13 (UTC);130 km W of Iñapari, Peru; 598.8 km ;7.0
+1990-08-12 21:25:21 (UTC);19 km NW of Isangel, Vanuatu; 140.4 km ;7.1
+1990-07-27 12:37:59 (UTC);37 km ENE of Luganville, Vanuatu; 125.7 km ;7.2
+1990-07-16 07:26:34 (UTC);4 km E of Macapsing, Philippines; 25.1 km ;7.7
+1990-06-20 21:00:09 (UTC);23 km N of P?deg?n-e Manj?l, Iran; 18.5 km ;7.4
+1990-06-14 07:40:56 (UTC);0 km ESE of Union, Philippines; 18.1 km ;7.1
+1990-05-30 10:40:06 (UTC);5 km W of Nistore?ti, Romania; 89.3 km ;7.0
+1990-05-24 20:09:23 (UTC);135 km NNE of Labuan Bajo, Indonesia; 588.9 km ;7.1
+1990-05-24 20:00:08 (UTC);63 km NNE of Juba, South Sudan; 16.0 km ;7.1
+1990-05-20 02:22:01 (UTC);69 km ENE of Juba, South Sudan; 14.9 km ;7.2
+1990-05-12 04:50:08 (UTC);16 km WSW of Uglegorsk, Russia; 605.7 km ;7.2
+1990-04-18 13:39:19 (UTC);75 km NNW of Gorontalo, Indonesia; 25.7 km ;7.8
+1990-04-05 21:12:35 (UTC);198 km E of Saipan, Northern Mariana Islands; 11.4 km ;7.6
+1990-03-25 13:22:55 (UTC);7 km SSE of Puntarenas, Costa Rica; 22.2 km ;7.3
+1990-03-05 16:38:12 (UTC);69 km SSW of Port-Vila, Vanuatu; 20.7 km ;7.1
+1990-03-03 12:16:27 (UTC);south of the Fiji Islands; 33.2 km ;7.6
+1989-12-15 18:43:45 (UTC);37 km ENE of Barcelona, Philippines; 24.4 km ;7.6
+1989-12-07 13:38:44 (UTC);59 km ESE of Kainantu, Papua New Guinea; 104.4 km ;7.1
+1989-11-01 18:25:34 (UTC);73 km ENE of Miyako, Japan; 28.6 km ;7.4
+1989-09-04 13:14:58 (UTC);164 km SE of Chignik, Alaska; 11.0 km ;7.0
+1989-05-23 10:54:46 (UTC);Macquarie Island region; 10.0 km ;8.0
+1989-05-14 00:59:50 (UTC);Kermadec Islands, New Zealand; 43.8 km ;7.0
+1989-05-05 18:28:39 (UTC);69 km W of Tarauacá, Brazil; 593.4 km ;7.1
+1989-02-10 11:15:24 (UTC);152 km WNW of Tobelo, Indonesia; 44.0 km ;7.1
+1988-11-06 13:03:19 (UTC);145 km NW of Jinghong, China; 17.8 km ;7.7
+1988-10-08 04:46:24 (UTC);166 km E of Neiafu, Tonga; 35.2 km ;7.1
+1988-08-10 04:38:26 (UTC);121 km W of Kirakira, Solomon Islands; 34.0 km ;7.6
+1988-08-06 00:36:24 (UTC);85 km SE of Phek, India; 90.5 km ;7.3
+1988-07-25 06:46:06 (UTC);112 km ESE of Tual, Indonesia; 27.7 km ;7.0
+1988-07-23 15:17:08 (UTC);247 km SSE of Kokopo, Papua New Guinea; 16.6 km ;7.0
+1988-04-12 23:19:55 (UTC);30 km SW of Islay (Matarani), Peru; 33.1 km ;7.1
+1988-03-06 22:35:38 (UTC);Gulf of Alaska; 10.0 km ;7.8
+1988-02-24 03:52:03 (UTC);37 km ESE of Bato, Philippines; 24.9 km ;7.3
+1988-02-05 14:01:02 (UTC);72 km N of Taltal, Chile; 36.9 km ;7.2
+1988-01-19 07:30:31 (UTC);77 km N of Taltal, Chile; 33.0 km ;7.0
+1987-11-30 19:23:19 (UTC);200 km WSW of Yakutat, Alaska; 10.0 km ;7.9
+1987-10-16 20:48:01 (UTC);54 km W of Kandrian, Papua New Guinea; 47.8 km ;7.4
+1987-10-12 13:57:04 (UTC);163 km SW of Panguna, Papua New Guinea; 24.7 km ;7.0
+1987-10-06 04:19:06 (UTC);201 km ENE of Neiafu, Tonga; 16.0 km ;7.3
+1987-09-03 06:40:13 (UTC);Macquarie Island region; 33.0 km ;7.4
+1987-08-08 15:48:56 (UTC);68 km SSE of Arica, Chile; 69.7 km ;7.2
+1990-06-14 07:40:56 (UTC);0 km ESE of Union, Philippines; 18.1 km ;7.1
+1990-05-30 10:40:06 (UTC);5 km W of Nistore?ti, Romania; 89.3 km ;7.0
+1990-05-24 20:09:23 (UTC);135 km NNE of Labuan Bajo, Indonesia; 588.9 km ;7.1
+1990-05-24 20:00:08 (UTC);63 km NNE of Juba, South Sudan; 16.0 km ;7.1
+1990-05-20 02:22:01 (UTC);69 km ENE of Juba, South Sudan; 14.9 km ;7.2
+1990-05-12 04:50:08 (UTC);16 km WSW of Uglegorsk, Russia; 605.7 km ;7.2
+1990-04-18 13:39:19 (UTC);75 km NNW of Gorontalo, Indonesia; 25.7 km ;7.8
+1990-04-05 21:12:35 (UTC);198 km E of Saipan, Northern Mariana Islands; 11.4 km ;7.6
+1990-03-25 13:22:55 (UTC);7 km SSE of Puntarenas, Costa Rica; 22.2 km ;7.3
+1990-03-05 16:38:12 (UTC);69 km SSW of Port-Vila, Vanuatu; 20.7 km ;7.1
+1990-03-03 12:16:27 (UTC);south of the Fiji Islands; 33.2 km ;7.6
+1989-12-15 18:43:45 (UTC);37 km ENE of Barcelona, Philippines; 24.4 km ;7.6
+1989-12-07 13:38:44 (UTC);59 km ESE of Kainantu, Papua New Guinea; 104.4 km ;7.1
+1989-11-01 18:25:34 (UTC);73 km ENE of Miyako, Japan; 28.6 km ;7.4
+1989-09-04 13:14:58 (UTC);164 km SE of Chignik, Alaska; 11.0 km ;7.0
+1989-05-23 10:54:46 (UTC);Macquarie Island region; 10.0 km ;8.0
+1989-05-14 00:59:50 (UTC);Kermadec Islands, New Zealand; 43.8 km ;7.0
+1989-05-05 18:28:39 (UTC);69 km W of Tarauacá, Brazil; 593.4 km ;7.1
+1989-02-10 11:15:24 (UTC);152 km WNW of Tobelo, Indonesia; 44.0 km ;7.1
+1988-11-06 13:03:19 (UTC);145 km NW of Jinghong, China; 17.8 km ;7.7
+1988-10-08 04:46:24 (UTC);166 km E of Neiafu, Tonga; 35.2 km ;7.1
+1988-08-10 04:38:26 (UTC);121 km W of Kirakira, Solomon Islands; 34.0 km ;7.6
+1988-08-06 00:36:24 (UTC);85 km SE of Phek, India; 90.5 km ;7.3
+1988-07-25 06:46:06 (UTC);112 km ESE of Tual, Indonesia; 27.7 km ;7.0
+1988-07-23 15:17:08 (UTC);247 km SSE of Kokopo, Papua New Guinea; 16.6 km ;7.0
+1988-04-12 23:19:55 (UTC);30 km SW of Islay (Matarani), Peru; 33.1 km ;7.1
+1988-03-06 22:35:38 (UTC);Gulf of Alaska; 10.0 km ;7.8
+1988-02-24 03:52:03 (UTC);37 km ESE of Bato, Philippines; 24.9 km ;7.3
+1988-02-05 14:01:02 (UTC);72 km N of Taltal, Chile; 36.9 km ;7.2
+1988-01-19 07:30:31 (UTC);77 km N of Taltal, Chile; 33.0 km ;7.0
+1987-11-30 19:23:19 (UTC);200 km WSW of Yakutat, Alaska; 10.0 km ;7.9
+1987-10-16 20:48:01 (UTC);54 km W of Kandrian, Papua New Guinea; 47.8 km ;7.4
+1987-10-12 13:57:04 (UTC);163 km SW of Panguna, Papua New Guinea; 24.7 km ;7.0
+1987-10-06 04:19:06 (UTC);201 km ENE of Neiafu, Tonga; 16.0 km ;7.3
+1987-09-03 06:40:13 (UTC);Macquarie Island region; 33.0 km ;7.4
+1987-08-08 15:48:56 (UTC);68 km SSE of Arica, Chile; 69.7 km ;7.2
+1987-06-17 01:32:53 (UTC);217 km W of Tual, Indonesia; 67.3 km ;7.1
+1987-04-01 01:48:08 (UTC);52 km W of Abra Pampa, Argentina; 248.7 km ;7.0
+1987-03-06 04:10:41 (UTC);29 km SSE of Pimampiro, Ecuador; 10.0 km ;7.2
+1987-03-05 10:55:12 (UTC);98 km SSW of Antofagasta, Chile; 34.8 km ;7.0
+1987-03-05 09:17:05 (UTC);84 km SSE of Antofagasta, Chile; 62.3 km ;7.6
+1987-02-08 18:33:58 (UTC);54 km NNW of Finschhafen, Papua New Guinea; 54.9 km ;7.4
+1987-01-30 22:29:42 (UTC);South Sandwich Islands region; 47.6 km ;7.0
+1986-11-14 21:20:10 (UTC);8 km SSW of Hualien City, Taiwan; 33.8 km ;7.4
+1986-10-30 01:28:54 (UTC);157 km WSW of Haveluloto, Tonga; 188.1 km ;7.2
+1986-10-20 06:46:09 (UTC);Kermadec Islands region; 29.1 km ;7.7
+1986-08-30 21:28:35 (UTC);7 km NNE of Ca?oca, Romania; 132.3 km ;7.2
+1986-08-14 19:39:13 (UTC);146 km NW of Ternate, Indonesia; 33.0 km ;7.5
+1986-06-24 03:11:30 (UTC);44 km SSW of Angoram, Papua New Guinea; 102.3 km ;7.2
+1986-06-16 10:48:25 (UTC);south of the Fiji Islands; 547.0 km ;7.1
+1986-05-26 19:06:15 (UTC);230 km S of Suva, Fiji; 538.3 km ;7.1
+1986-05-07 22:47:10 (UTC);85 km SSW of Atka, Alaska; 33.0 km ;8.0
+1986-04-30 07:07:18 (UTC);41 km SSW of Aguililla, Mexico; 26.5 km ;7.0
+1986-01-15 20:17:42 (UTC);210 km SSE of Isangel, Vanuatu; 150.0 km ;7.1
+1985-12-21 01:13:22 (UTC);112 km W of Sola, Vanuatu; 43.0 km ;7.1
+1985-11-28 03:49:54 (UTC);148 km W of Sola, Vanuatu; 33.0 km ;7.0
+1985-11-28 02:25:42 (UTC);142 km NW of Port-Olry, Vanuatu; 33.0 km ;7.0
+1985-11-17 09:40:21 (UTC);127 km SE of Manokwari, Indonesia; 10.0 km ;7.1
+1985-09-21 01:37:13 (UTC);7 km N of Pantla, Mexico; 30.8 km ;7.6
+1985-09-19 13:17:47 (UTC);26 km NW of El Habillal, Mexico; 27.9 km ;8.0
+1985-08-23 12:41:56 (UTC);66 km W of Kashgar, China; 6.8 km ;7.0
+1985-07-29 07:54:44 (UTC);75 km S of Jurm, Afghanistan; 98.7 km ;7.4
+1985-07-03 04:36:51 (UTC);62 km E of Kokopo, Papua New Guinea; 33.0 km ;7.3
+1985-05-10 15:35:50 (UTC);100 km E of Kimbe, Papua New Guinea; 26.7 km ;7.2
+1985-04-23 16:15:12 (UTC);1 km ENE of Santo Cristo, Philippines; 188.4 km ;7.0
+1985-04-13 03:00:06 (UTC);142 km NW of Ternate, Indonesia; 50.7 km ;7.0
+1985-04-09 01:56:59 (UTC);59 km S of San Antonio, Chile; 37.8 km ;7.2
+1985-03-04 00:32:21 (UTC);19 km S of Valparaíso, Chile; 33.0 km ;7.4
+1985-03-03 22:47:07 (UTC);25 km WSW of Valparaíso, Chile; 33.0 km ;8.0
+1984-11-20 08:15:16 (UTC);45 km SW of Sarangani, Philippines; 202.2 km ;7.5
+1984-11-17 06:49:30 (UTC);190 km SSW of Sibolga, Indonesia; 33.0 km ;7.1
+1984-11-15 02:46:19 (UTC);southeast of the Loyalty Islands; 104.7 km ;7.1
+1984-11-01 04:48:50 (UTC);central Mid-Atlantic Ridge; 10.0 km ;7.1
+1984-10-15 10:21:07 (UTC);19 km ENE of Hihifo, Tonga; 128.4 km ;7.2
+1984-08-06 12:01:52 (UTC);91 km SW of Gorontalo, Indonesia; 242.3 km ;7.4
+1984-05-30 07:49:43 (UTC);94 km SW of Kokopo, Papua New Guinea; 174.4 km ;7.1
